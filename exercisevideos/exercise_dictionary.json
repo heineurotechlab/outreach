@@ -93,14 +93,14 @@
 	},
 	{
 		"id": "E-8",
-		"title": "Active Neck Circumduction Stretch",
-		"mediaLink": "Exercises/videos/active_neck_circumduction_stretch_video.mp4",
-		"thumbLink": "Exercises/images/thumbnails/active_neck_circumduction_stretch_thumbnail.png",
-		"description": "Active Neck Circumduction",
+		"title": "Active Neck Rotation Stretch",
+		"mediaLink": "Exercises/videos/active_neck_rotation_stretch_video.mp4",
+		"thumbLink": "Exercises/images/thumbnails/active_rotation_stretch_thumbnail.png",
+		"description": "Active Neck Rotation Stretch",
 		"mediaType": "video",
 		"bodyArea": ["Neck"],
 		"objective": ["Stretching"],
-		"movement": ["Circumduction"],
+		"movement": ["Rotation"],
 		"equipment": ["None"],
 		"tipsToRemember": ["Imagine that you have a broomstick strapped to your back.", "Try to look over your shoulder when turning your head."]
 	},
@@ -848,16 +848,16 @@
 	},
 	{
 		"id": "E-66",
-		"title": "Seated Shoulder Press",
-		"mediaLink": "Exercises/videos/seated_shoulder_press_video.mp4",
-		"thumbLink": "Exercises/images/thumbnails/seated_shoulder_press_thumbnail.png",
-		"description": "Seated Shoulder Press",
+		"title": "Shoulder Press",
+		"mediaLink": "Exercises/videos/shoulder_press_video.mp4",
+		"thumbLink": "Exercises/images/thumbnails/shoulder_press_thumbnail.png",
+		"description": "Shoulder Press",
 		"mediaType": "video",
 		"bodyArea": ["Shoulder", "Upper Arm"],
 		"objective": ["Strengthening"],
 		"movement": ["Flexion"],
-		"equipment": ["Dumbells", "Chair"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Maintain your gaze straight ahead.", "Pull your abdominals in so there is a slight gap between the small of your back and the chair."]
+		"equipment": ["Dumbells"],
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Maintain your gaze straight ahead.", "Pull your abdominals to maintain balance."]
 	},
 	{
 		"id": "E-67",
