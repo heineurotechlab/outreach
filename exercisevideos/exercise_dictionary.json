@@ -1,7 +1,7 @@
 [{
 		"id": "E-1",
 		"title": "Chin Tuck",
-		"mediaLink": "Exercises/images/chin_tuck_video.mp4",
+		"mediaLink": "Exercises/videos/chin_tuck_video.mp4",
 		"thumbLink": "Exercises/images/thumbnails/chin_tuck.png",
 		"description": "Chin Tuck",
 		"mediaType": "video",
@@ -14,7 +14,7 @@
 	{
 		"id": "E-2",
 		"title": "Cervical Rotation Stretch",
-		"mediaLink": "Exercises/images/cervical_rotation_stretch_video.mp4",
+		"mediaLink": "Exercises/videos/cervical_rotation_stretch_video.mp4",
 		"thumbLink": "Exercises/images/thumbnails/cervical_rotation_stretch.png",
 		"description": "Cervical Rotation Stretch",
 		"mediaType": "video",
@@ -27,7 +27,7 @@
 	{
 		"id": "E-3",
 		"title": "Side Flexion Stretch",
-		"mediaLink": "Exercises/images/side_flexion_stretch_video.mp4",
+		"mediaLink": "Exercises/videos/side_flexion_stretch_video.mp4",
 		"thumbLink": "Exercises/images/thumbnails/side_flexion_stretch.png",
 		"description": "Side Flexion Stretch",
 		"mediaType": "video",
@@ -41,7 +41,7 @@
 	{
 		"id": "E-4",
 		"title": "Standing Neck Rotation Stretch",
-		"mediaLink": "Exercises/images/standing_neck_rotation_stretch_video.mp4",
+		"mediaLink": "Exercises/videos/standing_neck_rotation_stretch_video.mp4",
 		"thumbLink": "Exercises/images/thumbnails/standing_neck_rotation_stretch.png",
 		"description": "Standing Neck Rotation Stretch",
 		"mediaType": "video",
@@ -55,7 +55,7 @@
 	{
 		"id": "E-5",
 		"title": "Neck Side Flexion Stretch",
-		"mediaLink": "Exercises/images/neck_side_flexion_stretch_video.mp4",
+		"mediaLink": "Exercises/videos/neck_side_flexion_stretch_video.mp4",
 		"thumbLink": "Exercises/images/thumbnails/neck_side_flexion_stretch.png",
 		"description": "Neck Side Flexion Stretch",
 		"mediaType": "video",
@@ -68,7 +68,7 @@
 	{
 		"id": "E-6",
 		"title": "Active Neck Flexion/Extension Stretch",
-		"mediaLink": "Exercises/images/active_neck_flexion_extension_video.mp4",
+		"mediaLink": "Exercises/videos/active_neck_flexion_extension_video.mp4",
 		"thumbLink": "Exercises/images/thumbnails/active_neck_flexion_extension.png",
 		"description": "Active Neck Flexion/Extension",
 		"mediaType": "video",
@@ -81,7 +81,7 @@
 	{
 		"id": "E-7",
 		"title": "Active Neck Lateral Flexion Stretch",
-		"mediaLink": "Exercises/images/active_neck_lateral_flexion_video.mp4",
+		"mediaLink": "Exercises/videos/active_neck_lateral_flexion_video.mp4",
 		"thumbLink": "Exercises/images/thumbnails/active_neck_lateral_flexion.png",
 		"description": "Active Neck Lateral Flexion",
 		"mediaType": "video",
