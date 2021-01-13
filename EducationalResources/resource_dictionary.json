@@ -4,7 +4,7 @@
     "title": "Acceptable Face Coverings",
     "mediaLink": "Resources/images/acceptable_face_coverings_infographic.png",
     "thumbLink": "Resources/images/thumbnails/acceptable_face_coverings_infographic_thumbnail.png",
-    "Category": "Diseases & Conditions",
+    "Category": ["Diseases & Conditions"],
     "mediaType": "image"
   },
   {
@@ -12,7 +12,7 @@
     "title": "Asthma Symptoms",
     "mediaLink": "Resources/images/asthma_symptoms_infographic.png",
     "thumbLink": "Resources/images/thumbnails/asthma_symptoms_infographic_thumbnail.png",
-    "Category": "Diseases & Conditions",
+    "Category": ["Diseases & Conditions"],
     "mediaType": "image"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Blood Pressure Categories",
     "mediaLink": "Resources/images/blood_pressure_infographic.png",
     "thumbLink": "Resources/images/thumbnails/blood_pressure_infographic_thumbnail.png",
-    "Category": "Diseases & Conditions",
+    "Category": ["Diseases & Conditions"],
     "mediaType": "image"
   },
 {
@@ -28,7 +28,7 @@
     "title": "Cold vs Flu",
     "mediaLink": "Resources/images/cold_vs_flu_infographic.png",
     "thumbLink": "Resources/images/thumbnails/cold_vs_flu_infographic_thumbnail.png",
-    "Category": "Diseases & Conditions",
+    "Category": ["Diseases & Conditions"],
     "mediaType": "image"
   },
 {
@@ -36,7 +36,7 @@
     "title": "COVID and Age",
     "mediaLink": "Resources/images/covid_and_age_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_and_age_infographic_thumbnail.png",
-    "Category": "Diseases & Conditions",
+    "Category": ["Diseases & Conditions"],
     "mediaType": "image"
   },
 {
@@ -44,7 +44,7 @@
     "title": "COVID and Alcohol",
     "mediaLink": "Resources/images/covid_and_alcohol_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_and_alcohol_infographic_thumbnail.png",
-    "Category": "Diseases & Conditions",
+    "Category": ["Diseases & Conditions"],
     "mediaType": "image"
   },
 {
@@ -52,7 +52,7 @@
     "title": "COVID and Hot Peppers",
     "mediaLink": "Resources/images/covid_and_hot_peppers_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_and_hot_peppers_infographic_thumbnail.png",
-    "Category": "Diseases & Conditions",
+    "Category": ["Diseases & Conditions"],
     "mediaType": "image"
   },
 {
@@ -60,7 +60,7 @@
     "title": "COVID and Nasal Sprays",
     "mediaLink": "Resources/images/covid_and_nasal_sprays_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_and_nasal_sprays_infographic_thumbnail.png",
-    "Category": "Diseases & Conditions",
+    "Category": ["Diseases & Conditions"],
     "mediaType": "image"
   },
 {
@@ -68,7 +68,7 @@
     "title": "COVID and Supplements",
     "mediaLink": "Resources/images/covid_and_supplements_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_and_supplements_infographic_thumbnail.png",
-    "Category": "Diseases & Conditions",
+    "Category": ["Diseases & Conditions"],
     "mediaType": "image"
   },
 {
@@ -76,7 +76,7 @@
     "title": "COVID, Bleach and Methanol",
     "mediaLink": "Resources/images/covid_bleach_and_methanol_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_bleach_and_methanol_infographic_thumbnail.png",
-    "Category": "Diseases & Conditions",
+    "Category": ["Diseases & Conditions"],
     "mediaType": "image"
   },
 {
@@ -84,7 +84,7 @@
     "title": "COVID Face Coverings",
     "mediaLink": "Resources/images/covid_face_coverings_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_face_coverings_infographic_thumbnail.png",
-    "Category": "Diseases & Conditions",
+    "Category": ["Diseases & Conditions"],
     "mediaType": "image"
   },
 {
@@ -92,7 +92,7 @@
     "title": "COVID Prevention",
     "mediaLink": "Resources/images/covid_prevention_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_prevention_infographic_thumbnail.png",
-    "Category": "Diseases & Conditions",
+    "Category": ["Diseases & Conditions"],
     "mediaType": "image"
   },
 {
@@ -100,7 +100,7 @@
     "title": "COVID Symptoms",
     "mediaLink": "Resources/images/covid_symptoms_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_symptoms_infographic_thumbnail.png",
-    "Category": "Diseases & Conditions",
+    "Category": ["Diseases & Conditions"],
     "mediaType": "image"
   },
 {
@@ -108,7 +108,7 @@
     "title": "COVID Transmission",
     "mediaLink": "Resources/images/covid_transmission_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_transmission_infographic_thumbnail.png",
-    "Category": "Diseases & Conditions",
+    "Category": ["Diseases & Conditions"],
     "mediaType": "image"
   },
 {
@@ -116,7 +116,7 @@
     "title": "Crohns Disease Symptoms",
     "mediaLink": "Resources/images/crohns_disease_symptoms_infographic.png",
     "thumbLink": "Resources/images/thumbnails/crohns_disease_symptoms_infographic_thumbnail.png",
-    "Category": "Diseases & Conditions",
+    "Category": ["Diseases & Conditions"],
     "mediaType": "image"
   },
 {
@@ -132,7 +132,7 @@
     "title": "Diabetes Complications",
     "mediaLink": "Resources/images/diabetes_complications_infographic.png",
     "thumbLink": "Resources/images/thumbnails/diabetes_complications_infographic_thumbnail.png",
-    "Category": "Diseases & Conditions",
+    "Category": ["Diseases & Conditions"],
     "mediaType": "image"
   },
 {
@@ -140,7 +140,7 @@
     "title": "Diabetes Foot Problems",
     "mediaLink": "Resources/images/diabetes_foot_problems_infographic.png",
     "thumbLink": "Resources/images/thumbnails/diabetes_foot_problems_infographic_thumbnail.png",
-    "Category": "Diseases & Conditions",
+    "Category": ["Diseases & Conditions"],
     "mediaType": "image"
   },
 {
@@ -156,7 +156,7 @@
     "title": "Diabetes Risk Factors",
     "mediaLink": "Resources/images/diabetes_risk_factors_infographic.png",
     "thumbLink": "Resources/images/thumbnails/diabetes_risk_factors_infographic_thumbnail.png",
-    "Category": "Diseases & Conditions",
+    "Category": ["Diseases & Conditions"],
     "mediaType": "image"
   },
 {
@@ -164,7 +164,7 @@
     "title": "Diabetes Symptoms",
     "mediaLink": "Resources/images/diabetes_symptoms_infographic.png",
     "thumbLink": "Resources/images/thumbnails/diabetes_symptoms_infographic_thumbnail.png",
-    "Category": "Diseases & Conditions",
+    "Category": ["Diseases & Conditions"],
     "mediaType": "image"
   },
 {
