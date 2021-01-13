@@ -5,6 +5,7 @@
     "mediaLink": "Resources/images/acceptable_face_coverings_infographic.png",
     "thumbLink": "Resources/images/thumbnails/acceptable_face_coverings_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
   {
@@ -13,6 +14,7 @@
     "mediaLink": "Resources/images/asthma_symptoms_infographic.png",
     "thumbLink": "Resources/images/thumbnails/asthma_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
   {
@@ -21,6 +23,7 @@
     "mediaLink": "Resources/images/blood_pressure_infographic.png",
     "thumbLink": "Resources/images/thumbnails/blood_pressure_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -29,6 +32,7 @@
     "mediaLink": "Resources/images/cold_vs_flu_infographic.png",
     "thumbLink": "Resources/images/thumbnails/cold_vs_flu_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -37,6 +41,7 @@
     "mediaLink": "Resources/images/covid_and_age_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_and_age_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -45,6 +50,7 @@
     "mediaLink": "Resources/images/covid_and_alcohol_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_and_alcohol_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -53,6 +59,7 @@
     "mediaLink": "Resources/images/covid_and_hot_peppers_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_and_hot_peppers_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -61,6 +68,7 @@
     "mediaLink": "Resources/images/covid_and_nasal_sprays_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_and_nasal_sprays_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -69,6 +77,7 @@
     "mediaLink": "Resources/images/covid_and_supplements_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_and_supplements_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -77,6 +86,7 @@
     "mediaLink": "Resources/images/covid_bleach_and_methanol_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_bleach_and_methanol_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -85,6 +95,7 @@
     "mediaLink": "Resources/images/covid_face_coverings_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_face_coverings_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -93,6 +104,7 @@
     "mediaLink": "Resources/images/covid_prevention_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_prevention_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -101,6 +113,7 @@
     "mediaLink": "Resources/images/covid_symptoms_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -109,6 +122,7 @@
     "mediaLink": "Resources/images/covid_transmission_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_transmission_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -117,6 +131,7 @@
     "mediaLink": "Resources/images/crohns_disease_symptoms_infographic.png",
     "thumbLink": "Resources/images/thumbnails/crohns_disease_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -125,6 +140,7 @@
     "mediaLink": "Resources/images/depression_symptoms_infographic.png",
     "thumbLink": "Resources/images/thumbnails/depression_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions","Healthy Living"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -133,6 +149,7 @@
     "mediaLink": "Resources/images/diabetes_complications_infographic.png",
     "thumbLink": "Resources/images/thumbnails/diabetes_complications_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -141,6 +158,7 @@
     "mediaLink": "Resources/images/diabetes_foot_problems_infographic.png",
     "thumbLink": "Resources/images/thumbnails/diabetes_foot_problems_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -149,6 +167,7 @@
     "mediaLink": "Resources/images/diabetes_footcare_infographic.png",
     "thumbLink": "Resources/images/thumbnails/diabetes_footcare_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions","Injury Prevention"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -157,6 +176,7 @@
     "mediaLink": "Resources/images/diabetes_risk_factors_infographic.png",
     "thumbLink": "Resources/images/thumbnails/diabetes_risk_factors_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -165,7 +185,8 @@
     "mediaLink": "Resources/images/diabetes_symptoms_infographic.png",
     "thumbLink": "Resources/images/thumbnails/diabetes_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
-    "mediaType": "image"
+    "description": "",
+	"mediaType": "image"
   },
 {
     "id": "R-22",
@@ -173,6 +194,7 @@
     "mediaLink": "Resources/images/discomfort_vs_pain_infographic.png",
     "thumbLink": "Resources/images/thumbnails/discomfort_vs_pain_infographic_thumbnail.png",
     "Category": ["Rehabilitation","Injury Prevention"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -181,6 +203,7 @@
     "mediaLink": "Resources/images/effects_of_alcohol_infographic.png",
     "thumbLink": "Resources/images/thumbnails/effects_of_alcohol_infographic_thumbnail.png",
     "Category": ["Healthy Living"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -189,6 +212,7 @@
     "mediaLink": "Resources/images/effects_of_smoking_infographic.png",
     "thumbLink": "Resources/images/thumbnails/effects_of_smoking_infographic_thumbnail.png",
     "Category": ["Healthy Living"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -197,6 +221,7 @@
     "mediaLink": "Resources/images/handwashing_infographic.png",
     "thumbLink": "Resources/images/thumbnails/handwashing_infographic_thumbnail.png",
     "Category": ["Healthy Living","Injury Prevention"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -205,6 +230,7 @@
     "mediaLink": "Resources/images/hand_attack_in_women_infographic.png",
     "thumbLink": "Resources/images/thumbnails/hand_attack_in_women_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -213,6 +239,7 @@
     "mediaLink": "Resources/images/hand_attack_symptoms_infographic.png",
     "thumbLink": "Resources/images/thumbnails/hand_attack_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -220,7 +247,8 @@
     "title": "How does COVID Spread?",
     "mediaLink": "Resources/images/how_does_covid_spread_infographic.png",
     "thumbLink": "Resources/images/thumbnails/how_does_covid_spread_infographic_thumbnail.png",
-    "Category": ["Diseases & Conditions"],
+    "Category": ["Diseses & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -229,6 +257,7 @@
     "mediaLink": "Resources/images/how_to_wear_a_mask_infographic.png",
     "thumbLink": "Resources/images/thumbnails/how_to_wear_a_mask_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions","Healthy Living"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -237,6 +266,7 @@
     "mediaLink": "Resources/images/hypertension_infographic.png",
     "thumbLink": "Resources/images/thumbnails/hypertension_diet_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions","Healthy Living"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -245,6 +275,7 @@
     "mediaLink": "Resources/images/hypothyroidism_symptoms_infographic.png",
     "thumbLink": "Resources/images/thumbnails/hypothyroidism_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -253,6 +284,7 @@
     "mediaLink": "Resources/images/importance_of_rehabilitation_infographic.png",
     "thumbLink": "Resources/images/thumbnails/hypothyroidism_symptoms_infographic_thumbnail.png",
     "Category": ["Injury Prevention","Rehabilitation"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -261,6 +293,7 @@
     "mediaLink": "Resources/images/kidney_failure_causes_infographic.png",
     "thumbLink": "Resources/images/thumbnails/kidney_failure_causes_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -269,6 +302,7 @@
     "mediaLink": "Resources/images/kidney_failure_symptoms_infographic.png",
     "thumbLink": "Resources/images/thumbnails/kidney_failure_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -277,6 +311,7 @@
     "mediaLink": "Resources/images/lifting_and_twisting_infographic.png",
     "thumbLink": "Resources/images/thumbnails/lifting_and_twisting_infographic_thumbnail.png",
     "Category": ["Injury Prevention"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -285,6 +320,7 @@
     "mediaLink": "Resources/images/malaria_symptoms_infographic.png",
     "thumbLink": "Resources/images/thumbnails/malaria_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -293,6 +329,7 @@
     "mediaLink": "Resources/images/medication_adherence_infographic.png",
     "thumbLink": "Resources/images/thumbnails/medication_adherence_infographic_thumbnail.png",
     "Category": ["Healthy Living","Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -301,6 +338,7 @@
     "mediaLink": "Resources/images/preventing_kidney_damage_infographic.png",
     "thumbLink": "Resources/images/thumbnails/preventing_kidney_damage_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -309,6 +347,7 @@
     "mediaLink": "Resources/images/safe_manual_lifting_infographic.png",
     "thumbLink": "Resources/images/thumbnails/safe_manual_lifting_infographic_thumbnail.png",
     "Category": ["Injury Prevention"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -317,6 +356,7 @@
     "mediaLink": "Resources/images/sinusitis_symptoms_infographic.png",
     "thumbLink": "Resources/images/thumbnails/sinusitis_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   },
 {
@@ -325,7 +365,7 @@
     "mediaLink": "Resources/images/stroke_symptoms_infographic.png",
     "thumbLink": "Resources/images/thumbnails/stroke_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
     "mediaType": "image"
   }
-
 ]
