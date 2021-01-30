@@ -101,11 +101,11 @@
 {
     "id": "R-12",
     "title": "COVID Prevention",
-    "mediaLink": "Resources/images/covid_prevention_infographic.png",
+    "mediaLink": "Resources/videos/covid_prevention_animation.mp4",
     "thumbLink": "Resources/images/thumbnails/covid_prevention_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "video"
   },
 {
     "id": "R-13",
