@@ -367,5 +367,14 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image"
-  }
+  },
+ {
+	"id": "R-42",
+    "title": "Covid VIDEO TEST",
+    "mediaLink": "Resources/videos/covid_prevention_animation.mp4",
+    "thumbLink": "Resources/images/thumbnails/stroke_symptoms_infographic_thumbnail.png",
+    "Category": ["Diseases & Conditions"],
+	"description": "",
+    "mediaType": "video"
+ }
 ]
