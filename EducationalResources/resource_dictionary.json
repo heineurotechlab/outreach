@@ -6,7 +6,8 @@
     "thumbLink": "Resources/images/thumbnails/acceptable_face_coverings_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
   {
     "id": "R-2",
@@ -15,7 +16,8 @@
     "thumbLink": "Resources/images/thumbnails/asthma_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
   {
     "id": "R-3",
@@ -24,7 +26,8 @@
     "thumbLink": "Resources/images/thumbnails/blood_pressure_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-4",
@@ -33,7 +36,8 @@
     "thumbLink": "Resources/images/thumbnails/cold_vs_flu_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-5",
@@ -42,7 +46,8 @@
     "thumbLink": "Resources/images/thumbnails/covid_and_age_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-6",
@@ -51,7 +56,8 @@
     "thumbLink": "Resources/images/thumbnails/covid_and_alcohol_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-7",
@@ -60,7 +66,8 @@
     "thumbLink": "Resources/images/thumbnails/covid_and_hot_peppers_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-8",
@@ -69,7 +76,8 @@
     "thumbLink": "Resources/images/thumbnails/covid_and_nasal_sprays_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-9",
@@ -78,7 +86,8 @@
     "thumbLink": "Resources/images/thumbnails/covid_and_supplements_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-10",
@@ -87,7 +96,8 @@
     "thumbLink": "Resources/images/thumbnails/covid_bleach_and_methanol_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-11",
@@ -96,7 +106,8 @@
     "thumbLink": "Resources/images/thumbnails/covid_face_coverings_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-12",
@@ -105,7 +116,8 @@
     "thumbLink": "Resources/images/thumbnails/covid_prevention_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "video"
+    "mediaType": "video",
+	"tipsToRemember": ["Wear a mask to protect yourself and others and stop the spread of COVID-19", "Avoid crowds. The more people you are in contact with, the more likely you are to be exposed to COVID-19."]
   },
 {
     "id": "R-13",
@@ -114,7 +126,8 @@
     "thumbLink": "Resources/images/thumbnails/covid_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-14",
@@ -123,7 +136,8 @@
     "thumbLink": "Resources/images/thumbnails/covid_transmission_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-15",
@@ -132,7 +146,8 @@
     "thumbLink": "Resources/images/thumbnails/crohns_disease_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-16",
@@ -141,7 +156,8 @@
     "thumbLink": "Resources/images/thumbnails/depression_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions","Healthy Living"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "video",
+	"tipsToRemember": ["If you're suffering from depression, it's best to approach a mental health professional to find out what treatment is available and suited to you.", "If left untreated, the symptoms of depression are likely to get worse. It is therefore important to seek help early."]
   },
 {
     "id": "R-17",
@@ -150,7 +166,8 @@
     "thumbLink": "Resources/images/thumbnails/diabetes_complications_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-18",
@@ -159,7 +176,8 @@
     "thumbLink": "Resources/images/thumbnails/diabetes_foot_problems_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-19",
@@ -168,7 +186,8 @@
     "thumbLink": "Resources/images/thumbnails/diabetes_footcare_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions","Injury Prevention"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-20",
@@ -177,7 +196,8 @@
     "thumbLink": "Resources/images/thumbnails/diabetes_risk_factors_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-21",
@@ -186,7 +206,8 @@
     "thumbLink": "Resources/images/thumbnails/diabetes_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
     "description": "",
-	"mediaType": "image"
+	"mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-22",
@@ -195,7 +216,8 @@
     "thumbLink": "Resources/images/thumbnails/discomfort_vs_pain_infographic_thumbnail.png",
     "Category": ["Rehabilitation","Injury Prevention"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-23",
@@ -204,7 +226,8 @@
     "thumbLink": "Resources/images/thumbnails/effects_of_alcohol_infographic_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-24",
@@ -213,7 +236,8 @@
     "thumbLink": "Resources/images/thumbnails/effects_of_smoking_infographic_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-25",
@@ -222,7 +246,8 @@
     "thumbLink": "Resources/images/thumbnails/handwashing_infographic_thumbnail.png",
     "Category": ["Healthy Living","Injury Prevention"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-26",
@@ -231,7 +256,8 @@
     "thumbLink": "Resources/images/thumbnails/hand_attack_in_women_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-27",
@@ -240,7 +266,8 @@
     "thumbLink": "Resources/images/thumbnails/hand_attack_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-28",
@@ -249,7 +276,8 @@
     "thumbLink": "Resources/images/thumbnails/how_does_covid_spread_infographic_thumbnail.png",
     "Category": ["Diseses & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-29",
@@ -258,7 +286,8 @@
     "thumbLink": "Resources/images/thumbnails/how_to_wear_a_mask_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions","Healthy Living"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-30",
@@ -267,7 +296,8 @@
     "thumbLink": "Resources/images/thumbnails/hypertension_diet_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions","Healthy Living"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-31",
@@ -276,7 +306,8 @@
     "thumbLink": "Resources/images/thumbnails/hypothyroidism_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-32",
@@ -285,7 +316,8 @@
     "thumbLink": "Resources/images/thumbnails/hypothyroidism_symptoms_infographic_thumbnail.png",
     "Category": ["Injury Prevention","Rehabilitation"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-33",
@@ -294,7 +326,8 @@
     "thumbLink": "Resources/images/thumbnails/kidney_failure_causes_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-34",
@@ -303,7 +336,8 @@
     "thumbLink": "Resources/images/thumbnails/kidney_failure_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-35",
@@ -312,7 +346,8 @@
     "thumbLink": "Resources/images/thumbnails/lifting_and_twisting_infographic_thumbnail.png",
     "Category": ["Injury Prevention"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-36",
@@ -321,7 +356,8 @@
     "thumbLink": "Resources/images/thumbnails/malaria_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-37",
@@ -330,7 +366,8 @@
     "thumbLink": "Resources/images/thumbnails/medication_adherence_infographic_thumbnail.png",
     "Category": ["Healthy Living","Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-38",
@@ -339,7 +376,8 @@
     "thumbLink": "Resources/images/thumbnails/preventing_kidney_damage_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-39",
@@ -348,7 +386,8 @@
     "thumbLink": "Resources/images/thumbnails/safe_manual_lifting_infographic_thumbnail.png",
     "Category": ["Injury Prevention"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-40",
@@ -357,7 +396,8 @@
     "thumbLink": "Resources/images/thumbnails/sinusitis_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
 {
     "id": "R-41",
@@ -366,7 +406,8 @@
     "thumbLink": "Resources/images/thumbnails/stroke_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image"
+    "mediaType": "image",
+	"tipsToRemember": []
   },
  {
 	"id": "R-42",
@@ -375,6 +416,7 @@
     "thumbLink": "Resources/images/thumbnails/stroke_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "video"
+    "mediaType": "video",
+	"tipsToRemember": []
  }
 ]
