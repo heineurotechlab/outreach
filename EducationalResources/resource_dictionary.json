@@ -117,7 +117,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": ["Wear a mask to protect yourself and others and stop the spread of COVID-19", "Avoid crowds. The more people you are in contact with, the more likely you are to be exposed to COVID-19."]
+	"tipsToRemember": ["Wear a mask to protect yourself and others and stop the spread of COVID-19", "Masks should be worn in addition to staying at least 6 feet apart, especially around people who don’t live with you.", "Avoid crowds. The more people you are in contact with, the more likely you are to be exposed to COVID-19."]
   },
 {
     "id": "R-13",
@@ -157,7 +157,7 @@
     "Category": ["Diseases & Conditions","Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": ["If you're suffering from depression, it's best to approach a mental health professional to find out what treatment is available and suited to you.", "If left untreated, the symptoms of depression are likely to get worse. It is therefore important to seek help early."]
+	"tipsToRemember": ["If you're suffering from depression, it's best to approach a mental health professional to find out what treatment is available and suited to you.", "If left untreated, the symptoms of depression are likely to get worse. It is therefore important to seek help early.","If you think you may hurt yourself or attempt suicide, call 911 or your local emergency number immediately."]
   },
 {
     "id": "R-17",
