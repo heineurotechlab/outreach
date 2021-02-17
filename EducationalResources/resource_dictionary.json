@@ -117,7 +117,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": ["Wear a mask to protect yourself and others and stop the spread of COVID-19.", "Masks should be worn in addition to staying at least 6 feet apart, especially around people who don’t live with you.", "Avoid crowds. The more people you are in contact with, the more likely you are to be exposed to COVID-19."]
+	"tipsToRemember": ["Wear a mask to protect yourself and others and stop the spread of COVID-19.", "Masks should be worn in addition to staying at least 6 feet apart, especially around people who donâ€™t live with you.", "Avoid crowds. The more people you are in contact with, the more likely you are to be exposed to COVID-19."]
   },
 {
     "id": "R-13",
@@ -167,7 +167,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": ["To avoide complications to diabetes:", "Monitor your health through regular blood sugar checks and visits to your doctor.", "Follow a sensible diet and exercise routine.", "If prescribed, take your medications (pills and/or insulin) as recommended by your doctor."]
   },
 {
     "id": "R-18",
@@ -177,7 +177,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": ["If you have diabetes, check your feet everyday for injury or changes in your skin or nails.", "Take care of your feet by avoiding potentially harmful activities, checking your shoes for any objects prior to putting them on, and using good foot hygiene by wahsing feet in warm water daily and keeping toenails trimmed.", "Do not hesitate to contact your doctor and attend all scheduled appointments."]
   },
 {
     "id": "R-19",
