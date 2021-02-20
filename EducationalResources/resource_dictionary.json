@@ -187,7 +187,7 @@
     "Category": ["Diseases & Conditions","Injury Prevention"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": ["Check the top and bottom of your feet every day for cracks, abraisions, redness, tenderness, and toenail irregularities.", "Always wear shoes and socks that protect your feet and fit well.", "Wear footwear that protects your feet from cold, moisture, and avoid shoes with heels and poited toes.", "If a foot problem arises, report it to your doctor or podiatrist."]
   },
 {
     "id": "R-20",
@@ -367,7 +367,7 @@
     "Category": ["Healthy Living","Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": ["Tie taking your medications into your daily routine.", "Take your medication at the same time daily.", "Keep a 'medicine caldendar' with your medications and note each time to take a dose.", "When traveling, make sure you bring enough of your medication, plus a few days extra, in case of delays, and if you are flying, keep your medication in your carry-on baggage."]
   },
 {
     "id": "R-38",
@@ -407,7 +407,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": ["Quick response to stroke symptoms can save a life, please call 911 immediately.", "Symptoms include: weakness or numbness on one side of the body, confusion, speech difficulty, vision problems, diziness, loss of balance, trouble walking, and severe headache.", "After a stroke, the sooner an individual receives medical assistance, the better, B.E. F.A.S.T."]
   },
  {
 	"id": "R-42",
