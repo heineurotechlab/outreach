@@ -217,7 +217,7 @@
     "Category": ["Rehabilitation","Injury Prevention"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": ["Length of time matters, discofort may last a few days, but pain will last longer and make it difficult to partake in activities of daily living.", "Location matters, discomfort is felt in muscles, whereas pain may be felt in muscles, but is often felt in joints.", "Keep in mind that these differences are specific to acute pain and discomfort and do not go into the nuances of chronic pain."]
   },
 {
     "id": "R-23",
@@ -297,7 +297,7 @@
     "Category": ["Diseases & Conditions","Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": []
+	"tipsToRemember": ["Eating a diet that is rich in whole grains, fruits, vegetables and low-fat dairy products, and limiting your intake of saturated fat and cholesterol can lower your blood pressure.", "This type of eating plan is known as the Dietary Approaches to Stop Hypertension, or DASH diet.", "Making changes to your eating habit is not easy, so things that may help include: keeping a food diary, increasing your potassium intake, and shopping with your healthy-eating plan in mind."]
   },
 {
     "id": "R-31",
@@ -317,7 +317,7 @@
     "Category": ["Injury Prevention","Rehabilitation"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": []
+	"tipsToRemember": ["Keeping up your motivation for rehabilition can be challenging, but some things that may help include setting goals, and involving family or friends.", "Some benefits to rehabilitation include the reduction or elimination of pain, improved mobility and balance, prevention of future injuries, and overall health management."]
   },
 {
     "id": "R-33",
@@ -417,7 +417,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": []
+	"tipsToRemember": ["Do not add salt while you are cooking, just add it to taste once the meal is served.", "When buying food, check the label and choose products with lower sodium levels.", "Limit your consumption of salty snacks and find other snacks you enjoy that either have no or low sodium."]
  },
  {
 	"id": "R-43",
