@@ -292,11 +292,11 @@
 {
     "id": "R-30",
     "title": "Hypertension Diet",
-    "mediaLink": "Resources/images/hypertension_diet_infographic.png",
+    "mediaLink": "Resources/images/hypertension_diet_animation.mp4",
     "thumbLink": "Resources/images/thumbnails/hypertension_diet_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions","Healthy Living"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": []
   },
 {
@@ -312,11 +312,11 @@
 {
     "id": "R-32",
     "title": "Importance of Rehabilitation",
-    "mediaLink": "Resources/images/importance_of_rehabilitation_infographic.png",
+    "mediaLink": "Resources/images/importance_of_rehabilitation_animation.mp4",
     "thumbLink": "Resources/images/thumbnails/importance_of_rehabilitation_infographic_thumbnail.png",
     "Category": ["Injury Prevention","Rehabilitation"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": []
   },
 {
@@ -406,15 +406,25 @@
     "thumbLink": "Resources/images/thumbnails/stroke_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Quick response to stroke symptoms can save a life, please call 911 immediately.", "Symptoms include: weakness or numbness on one side of the body, confusion, speech difficulty, vision problems, diziness, loss of balance, trouble walking, and severe headache.", "After a stroke, the sooner an individual receives medical assistance, the better, B.E. F.A.S.T."]
   },
  {
 	"id": "R-42",
-    "title": "Covid VIDEO TEST",
-    "mediaLink": "Resources/videos/covid_prevention_animation.mp4",
-    "thumbLink": "Resources/images/thumbnails/covid_prevention_infographic_thumbnail.png",
+    "title": "Sodium Reduction Strategies",
+    "mediaLink": "Resources/videos/sodium_reduction_strategies_animation.mp4",
+    "thumbLink": "Resources/images/thumbnails/sodium_reduction_strategies_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
+	"description": "",
+    "mediaType": "video",
+	"tipsToRemember": []
+ },
+ {
+	"id": "R-43",
+    "title": "Discomfort vs Pain",
+    "mediaLink": "Resources/videos/discomfort_vs_pain_animation.mp4",
+    "thumbLink": "Resources/images/thumbnails/discomfort_vs_pain_infographic_thumbnail.png",
+    "Category": ["Injury Prevention","Rehabilitation"],
 	"description": "",
     "mediaType": "video",
 	"tipsToRemember": []
