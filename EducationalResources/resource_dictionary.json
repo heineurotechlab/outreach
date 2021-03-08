@@ -7,7 +7,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
   {
     "id": "R-2",
@@ -17,7 +18,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
   {
     "id": "R-3",
@@ -27,7 +29,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-4",
@@ -37,7 +40,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-5",
@@ -47,7 +51,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-6",
@@ -57,7 +62,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-7",
@@ -67,7 +73,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-8",
@@ -77,7 +84,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-9",
@@ -87,7 +95,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-10",
@@ -97,7 +106,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-11",
@@ -107,7 +117,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-12",
@@ -117,7 +128,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": ["Wear a mask to protect yourself and others and stop the spread of COVID-19.", "Masks should be worn in addition to staying at least 6 feet apart, especially around people who don't live with you.", "Avoid crowds. The more people you are in contact with, the more likely you are to be exposed to COVID-19."]
+	"tipsToRemember": ["Wear a mask to protect yourself and others and stop the spread of COVID-19.", "Masks should be worn in addition to staying at least 6 feet apart, especially around people who don't live with you.", "Avoid crowds. The more people you are in contact with, the more likely you are to be exposed to COVID-19."],
+	"readyToDeploy": true
   },
 {
     "id": "R-13",
@@ -127,7 +139,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-14",
@@ -137,7 +150,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-15",
@@ -147,7 +161,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-16",
@@ -157,7 +172,8 @@
     "Category": ["Diseases & Conditions","Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": ["If you're suffering from depression, it's best to approach a mental health professional to find out what treatment is available and suited to you.", "If left untreated, the symptoms of depression are likely to get worse. It is therefore important to seek help early.","If you think you may hurt yourself or attempt suicide, call 911 or your local emergency number immediately."]
+	"tipsToRemember": ["If you're suffering from depression, it's best to approach a mental health professional to find out what treatment is available and suited to you.", "If left untreated, the symptoms of depression are likely to get worse. It is therefore important to seek help early.","If you think you may hurt yourself or attempt suicide, call 911 or your local emergency number immediately."],
+	"readyToDeploy": true
   },
 {
     "id": "R-17",
@@ -167,7 +183,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": ["Monitor your health through regular blood sugar checks and visits to your doctor.", "Follow a sensible diet and exercise routine.", "If prescribed, take your medications (pills and/or insulin) as recommended by your doctor."]
+	"tipsToRemember": ["Monitor your health through regular blood sugar checks and visits to your doctor.", "Follow a sensible diet and exercise routine.", "If prescribed, take your medications (pills and/or insulin) as recommended by your doctor."],
+	"readyToDeploy": true
   },
 {
     "id": "R-18",
@@ -177,7 +194,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": ["If you have diabetes, check your feet every day for injury or changes in your skin or nails.", "Take care of your feet by avoiding potentially harmful activities, checking your shoes for any objects prior to use, washing feet in warm water daily, and keeping toenails trimmed.", "Keep the blood flowing by putting your feet up when sitting and wiggling your toes several times throughout the day."]
+	"tipsToRemember": ["If you have diabetes, check your feet every day for injury or changes in your skin or nails.", "Take care of your feet by avoiding potentially harmful activities, checking your shoes for any objects prior to use, washing feet in warm water daily, and keeping toenails trimmed.", "Keep the blood flowing by putting your feet up when sitting and wiggling your toes several times throughout the day."],
+	"readyToDeploy": true
   },
 {
     "id": "R-19",
@@ -187,7 +205,8 @@
     "Category": ["Diseases & Conditions","Injury Prevention"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": ["Check the top and bottom of your feet every day for cracks, abraisions, redness, tenderness, and toenail irregularities.", "Always wear shoes and socks that protect your feet and fit well.", "Wear footwear that protects your feet from cold, moisture, and avoid shoes with heels and poited toes.", "If a foot problem arises, report it to your doctor or podiatrist."]
+	"tipsToRemember": ["Check the top and bottom of your feet every day for cracks, abraisions, redness, tenderness, and toenail irregularities.", "Always wear shoes and socks that protect your feet and fit well.", "Wear footwear that protects your feet from cold, moisture, and avoid shoes with heels and poited toes.", "If a foot problem arises, report it to your doctor or podiatrist."],
+	"readyToDeploy": true
   },
 {
     "id": "R-20",
@@ -197,7 +216,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-21",
@@ -207,7 +227,8 @@
     "Category": ["Diseases & Conditions"],
     "description": "",
 	"mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-22",
@@ -217,7 +238,8 @@
     "Category": ["Rehabilitation","Injury Prevention"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": ["Length of time matters, discofort may last a few days, but pain will last longer and make it difficult to partake in activities of daily living.", "Location matters, discomfort is felt in muscles, whereas pain may be felt in muscles, but is often felt in joints.", "Keep in mind that these differences are specific to acute pain and discomfort and do not go into the nuances of chronic pain."]
+	"tipsToRemember": ["Length of time matters, discofort may last a few days, but pain will last longer and make it difficult to partake in activities of daily living.", "Location matters, discomfort is felt in muscles, whereas pain may be felt in muscles, but is often felt in joints.", "Keep in mind that these differences are specific to acute pain and discomfort and do not go into the nuances of chronic pain."],
+	"readyToDeploy": true
   },
 {
     "id": "R-23",
@@ -227,7 +249,8 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-24",
@@ -237,7 +260,8 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-25",
@@ -247,7 +271,8 @@
     "Category": ["Healthy Living","Injury Prevention"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-26",
@@ -257,7 +282,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-27",
@@ -267,7 +293,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-28",
@@ -277,7 +304,8 @@
     "Category": ["Diseses & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-29",
@@ -287,7 +315,8 @@
     "Category": ["Diseases & Conditions","Healthy Living"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-30",
@@ -297,7 +326,8 @@
     "Category": ["Diseases & Conditions","Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": ["Eating a diet that is rich in whole grains, fruits, vegetables and low-fat dairy products, and limiting your intake of saturated fat and cholesterol can lower your blood pressure.", "This type of eating plan is known as the Dietary Approaches to Stop Hypertension, or DASH diet.", "Making changes to your eating habit is not easy, so things that may help include: keeping a food diary, increasing your potassium intake, and shopping with your healthy-eating plan in mind."]
+	"tipsToRemember": ["Eating a diet that is rich in whole grains, fruits, vegetables and low-fat dairy products, and limiting your intake of saturated fat and cholesterol can lower your blood pressure.", "This type of eating plan is known as the Dietary Approaches to Stop Hypertension, or DASH diet.", "Making changes to your eating habit is not easy, so things that may help include: keeping a food diary, increasing your potassium intake, and shopping with your healthy-eating plan in mind."],
+	"readyToDeploy": true
   },
 {
     "id": "R-31",
@@ -307,7 +337,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-32",
@@ -317,7 +348,8 @@
     "Category": ["Injury Prevention","Rehabilitation"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": ["Keeping up your motivation for rehabilition can be challenging, but some things that may help include setting goals, and involving family or friends.", "Some benefits to rehabilitation include the reduction or elimination of pain, improved mobility and balance, prevention of future injuries, and overall health management."]
+	"tipsToRemember": ["Keeping up your motivation for rehabilition can be challenging, but some things that may help include setting goals, and involving family or friends.", "Some benefits to rehabilitation include the reduction or elimination of pain, improved mobility and balance, prevention of future injuries, and overall health management."],
+	"readyToDeploy": true
   },
 {
     "id": "R-33",
@@ -327,7 +359,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-34",
@@ -337,7 +370,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-35",
@@ -347,7 +381,8 @@
     "Category": ["Injury Prevention"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-36",
@@ -357,7 +392,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-37",
@@ -367,7 +403,8 @@
     "Category": ["Healthy Living","Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": ["Tie taking your medications into your daily routine.", "Take your medication at the same time daily.", "Keep a 'medicine caldendar' with your medications and note each time to take a dose.", "When traveling, make sure you bring enough of your medication, plus a few days extra, in case of delays, and if you are flying, keep your medication in your carry-on baggage."]
+	"tipsToRemember": ["Tie taking your medications into your daily routine.", "Take your medication at the same time daily.", "Keep a 'medicine caldendar' with your medications and note each time to take a dose.", "When traveling, make sure you bring enough of your medication, plus a few days extra, in case of delays, and if you are flying, keep your medication in your carry-on baggage."],
+	"readyToDeploy": true
   },
 {
     "id": "R-38",
@@ -377,7 +414,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-39",
@@ -387,7 +425,8 @@
     "Category": ["Injury Prevention"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-40",
@@ -397,7 +436,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
   },
 {
     "id": "R-41",
@@ -407,7 +447,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": ["Quick response to stroke symptoms can save a life, please call 911 immediately.", "Symptoms include: weakness or numbness on one side of the body, confusion, speech difficulty, vision problems, diziness, loss of balance, trouble walking, and severe headache.", "After a stroke, the sooner an individual receives medical assistance, the better, B.E. F.A.S.T."]
+	"tipsToRemember": ["Quick response to stroke symptoms can save a life, please call 911 immediately.", "Symptoms include: weakness or numbness on one side of the body, confusion, speech difficulty, vision problems, diziness, loss of balance, trouble walking, and severe headache.", "After a stroke, the sooner an individual receives medical assistance, the better, B.E. F.A.S.T."],
+	"readyToDeploy": true
   },
  {
 	"id": "R-42",
@@ -417,7 +458,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": ["Do not add salt while you are cooking, just add it to taste once the meal is served.", "When buying food, check the label and choose products with lower sodium levels.", "Limit your consumption of salty snacks and find other snacks you enjoy that either have no or low sodium."]
+	"tipsToRemember": ["Do not add salt while you are cooking, just add it to taste once the meal is served.", "When buying food, check the label and choose products with lower sodium levels.", "Limit your consumption of salty snacks and find other snacks you enjoy that either have no or low sodium."],
+	"readyToDeploy": true
  },
  {
 	"id": "R-43",
@@ -427,6 +469,7 @@
     "Category": ["Injury Prevention","Rehabilitation"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": []
+	"tipsToRemember": [],
+	"readyToDeploy": true
  }
 ]
