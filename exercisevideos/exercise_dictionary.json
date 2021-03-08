@@ -9,7 +9,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Retraction"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Don't force the motion. Aim for 70-80% of your full range of motion.", "Avoid tilting your head back or down excessively."]
+		"tipsToRemember": ["Don't force the motion. Aim for 70-80% of your full range of motion.", "Avoid tilting your head back or down excessively."],
+		"readyToDeploy": false
 	},
 	{
 		"id": "E-2",
@@ -22,7 +23,7 @@
 		"objective": ["Stretching"],
 		"movement": ["Rotation"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Imagine that you have a broomstick strapped to your back.", "Maintain gaze on your belly button.", "Keep your chin as close to the chest as possible."]
+		"tipsToRemember": ["Imagine that you have a broomstick strapped to your back.", "Maintain gaze on your belly button.", "Keep your chin as close to the chest as possible."],		"readyToDeploy": true
 	},
 	{
 		"id": "E-3",
@@ -35,8 +36,8 @@
 		"objective": ["Stretching"],
 		"movement": ["Lateral Flexion"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Imagine that you have a broomstick strapped to your back.", "Relax your neck as you move your head from side to side.", "Take deep breaths to keep your shoulders relaxed"]
-
+		"tipsToRemember": ["Imagine that you have a broomstick strapped to your back.", "Relax your neck as you move your head from side to side.", "Take deep breaths to keep your shoulders relaxed"],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-4",
@@ -49,8 +50,8 @@
 		"objective": ["Stretching"],
 		"movement": ["Rotation"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Imagine that you have a broomstick strapped to your back.", "Try to look over your shoulder when turning your head."]
-
+		"tipsToRemember": ["Imagine that you have a broomstick strapped to your back.", "Try to look over your shoulder when turning your head."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-5",
@@ -63,7 +64,8 @@
 		"objective": ["Stretching"],
 		"movement": ["Lateral_Flexion"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Imagine that you have a broomstick strapped to your back.", "Relax your neck as you move your head to the side.", "Take deep breaths to keep your shoulders relaxed."]
+		"tipsToRemember": ["Imagine that you have a broomstick strapped to your back.", "Relax your neck as you move your head to the side.", "Take deep breaths to keep your shoulders relaxed."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-6",
@@ -76,7 +78,8 @@
 		"objective": ["Stretching"],
 		"movement": ["Flexion"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Imagine that you have a broomstick strapped to your back.", "Look up into the sky and then down at your feet.", "Take deep breaths to keep your shoulders relaxed."]
+		"tipsToRemember": ["Imagine that you have a broomstick strapped to your back.", "Look up into the sky and then down at your feet.", "Take deep breaths to keep your shoulders relaxed."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-7",
@@ -89,7 +92,8 @@
 		"objective": ["Stretching"],
 		"movement": ["Lateral_Flexion"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Imagine that you have a broomstick strapped to your back.", "Relax your neck as you move your head to the side.", "Take deep breaths to keep your shoulders relaxed."]
+		"tipsToRemember": ["Imagine that you have a broomstick strapped to your back.", "Relax your neck as you move your head to the side.", "Take deep breaths to keep your shoulders relaxed."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-8",
@@ -102,7 +106,8 @@
 		"objective": ["Stretching"],
 		"movement": ["Rotation"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Imagine that you have a broomstick strapped to your back.", "Try to look over your shoulder when turning your head."]
+		"tipsToRemember": ["Imagine that you have a broomstick strapped to your back.", "Try to look over your shoulder when turning your head."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-9",
@@ -115,7 +120,8 @@
 		"objective": ["Stretching"],
 		"movement": ["Flexion"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Take deep breaths to keep relaxed", "Don’t pull, let the weight of your arms guide the stretch."]
+		"tipsToRemember": ["Take deep breaths to keep relaxed", "Don't pull, let the weight of your arms guide the stretch."],
+	"readyToDeploy": false
 	},
 	{
 		"id": "E-10",
@@ -128,7 +134,8 @@
 		"objective": ["Stretching"],
 		"movement": ["Rotation", "Flexion"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Take deep breaths to keep your neck relaxed.", "Don’t pull, let the weight of your arms guide the stretch."]
+		"tipsToRemember": ["Take deep breaths to keep your neck relaxed.", "Don’t pull, let the weight of your arms guide the stretch."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-11",
@@ -141,7 +148,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Rotation", "Flexion", "Circumduction"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Relax your neck as you move your head to the side.", "Take deep breaths to keep your shoulders relaxed."]
+		"tipsToRemember": ["Relax your neck as you move your head to the side.", "Take deep breaths to keep your shoulders relaxed."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-12",
@@ -154,7 +162,8 @@
 		"objective": ["Stretching"],
 		"movement": ["Horizontal_Adduction"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Imagine that you have a broomstick strapped to your back.", "Maintain your upright posture while stepping forward with one foot."]
+		"tipsToRemember": ["Imagine that you have a broomstick strapped to your back.", "Maintain your upright posture while stepping forward with one foot."],
+	"readyToDeploy": false
 	},
 	{
 		"id": "E-13",
@@ -167,7 +176,8 @@
 		"objective": ["Stretching"],
 		"movement": ["Abduction", "Retraction"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Try to crack an imaginary walnut between your shoulder blades."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Try to crack an imaginary walnut between your shoulder blades."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-14",
@@ -180,7 +190,8 @@
 		"objective": ["Stretching"],
 		"movement": ["Flexion", "Adduction", "Retraction", "Internal_Rotation"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Try to crack an imaginary walnut between your shoulder blades."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Try to crack an imaginary walnut between your shoulder blades."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-15",
@@ -193,7 +204,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Extension", "Retraction", "External_Rotation", "Upward_Rotation"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Exhale while straightening your arms and relax your shoulder blades."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Exhale while straightening your arms and relax your shoulder blades."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-16",
@@ -206,7 +218,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Circumduction"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Try to crack an imaginary walnut between your shoulder blades when rolling your shoulders back.", "Relax your shoulder blades when rolling your shoulders forward."]
+		"tipsToRemember": ["Try to crack an imaginary walnut between your shoulder blades when rolling your shoulders back.", "Relax your shoulder blades when rolling your shoulders forward."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-17",
@@ -219,7 +232,8 @@
 		"objective": ["Stretching"],
 		"movement": ["Horizontal_Adduction"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Don't hitch your shoulder up during the stretch.", "Keep your upright posture throughout the stretch."]
+		"tipsToRemember": ["Don't hitch your shoulder up during the stretch.", "Keep your upright posture throughout the stretch."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-18",
@@ -232,7 +246,8 @@
 		"objective": ["Strengthening"],
 		"movement": ["Retraction"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Try to crack an imaginary walnut between your shoulder blades."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Try to crack an imaginary walnut between your shoulder blades."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-19",
@@ -245,7 +260,8 @@
 		"objective": ["Strengthening", "Mobility", "Stability"],
 		"movement": ["Flexion"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Keep your shoulder relaxed throughout the exercise.", "Don't climb further than you can move without hitching your shoulder upwards."]
+		"tipsToRemember": ["Keep your shoulder relaxed throughout the exercise.", "Don't climb further than you can move without hitching your shoulder upwards."],
+	"readyToDeploy": false
 	},
 	{
 		"id": "E-20",
@@ -258,7 +274,8 @@
 		"objective": ["Strengthening", "Mobility", "Stability"],
 		"movement": ["Abduction", "Flexion"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Keep your shoulder relaxed throughout the exercise.", "Don't climb further than you can move without hitching your shoulder upwards."]
+		"tipsToRemember": ["Keep your shoulder relaxed throughout the exercise.", "Don't climb further than you can move without hitching your shoulder upwards."],
+	"readyToDeploy": false
 	},
 	{
 		"id": "E-21",
@@ -271,7 +288,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Circumduction"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your shoulders relaxed throughout the exercise."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your shoulders relaxed throughout the exercise."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-22",
@@ -284,7 +302,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Extension", "Flexion"],
 		"equipment": ["Towel"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Use your uninjured arm to help push the shoulder forward till you feel the stretch."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Use your uninjured arm to help push the shoulder forward till you feel the stretch."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-23",
@@ -297,7 +316,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Adduction", "Abduction"],
 		"equipment": ["Towel"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your shoulders relaxed throughout the exercise.", "Use your uninjured arm to help push the shoulder outward till you feel the stretch."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your shoulders relaxed throughout the exercise.", "Use your uninjured arm to help push the shoulder outward till you feel the stretch."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-24",
@@ -310,7 +330,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Internal_Rotation", "External_Rotation"],
 		"equipment": ["Towel"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your elbow locked to your ribcage", "Look straight ahead to keep your torso straight."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your elbow locked to your ribcage", "Look straight ahead to keep your torso straight."],
+	"readyToDeploy": false
 	},
 	{
 		"id": "E-25",
@@ -323,7 +344,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Elevation"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "To control the downward movement, exhale while letting the shoulders relax."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "To control the downward movement, exhale while letting the shoulders relax."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-26",
@@ -336,7 +358,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Internal_Rotation", "External_Rotation"],
 		"equipment": ["Towel"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Use your uninjured arm to help push your hand in circles."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Use your uninjured arm to help push your hand in circles."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-27",
@@ -349,7 +372,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Internal_Rotation", "External_Rotation"],
 		"equipment": ["Stick"],
-		"tipsToRemember": ["Keep your elbows locked to your ribcage.", "Use the unaffected arm to move the stick and affected arm outward."]
+		"tipsToRemember": ["Keep your elbows locked to your ribcage.", "Use the unaffected arm to move the stick and affected arm outward."],
+	"readyToDeploy": false
 	},
 	{
 		"id": "E-28",
@@ -362,7 +386,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Flexion", "Extension", "Abduction", "Internal_Rotation", "External_Rotation"],
 		"equipment": ["Cup"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Maintain your gaze straight ahead.", "Squeeze an imaginary walnut between your shoulder blades."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Maintain your gaze straight ahead.", "Squeeze an imaginary walnut between your shoulder blades."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-29",
@@ -375,7 +400,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Flexion", "Extension", "Abduction", "Internal_Rotation", "External_Rotation"],
 		"equipment": ["Cup"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Maintain your gaze straight ahead.", "Squeeze an imaginary walnut between your shoulder blades."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Maintain your gaze straight ahead.", "Squeeze an imaginary walnut between your shoulder blades."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-30",
@@ -388,7 +414,8 @@
 		"objective": ["Mobility", "Strengthening"],
 		"movement": ["Flexion"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Focus on keeping your thumb pointing upward."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Focus on keeping your thumb pointing upward."],
+	"readyToDeploy": false
 	},
 	{
 		"id": "E-31",
@@ -401,7 +428,8 @@
 		"objective": ["Mobility", "Strengthening"],
 		"movement": ["Abduction"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Focus on keeping your palm facing forward and thumb pointing upward."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Focus on keeping your palm facing forward and thumb pointing upward."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-32",
@@ -414,9 +442,9 @@
 		"objective": ["Strengthening"],
 		"movement": ["Flexion"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your back straight during the exercise."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your back straight during the exercise."],
+	"readyToDeploy": true
 	},
-
 	{
 		"id": "E-33",
 		"title": "Isometric Shoulder Extension",
@@ -428,7 +456,8 @@
 		"objective": ["Strengthening"],
 		"movement": ["Flexion"],
 		"equipment": ["Extension"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your back straight during the exercise.", "Push only with your elbow."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your back straight during the exercise.", "Push only with your elbow."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-34",
@@ -441,7 +470,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Flexion", "Extension"],
 		"equipment": ["Chair"],
-		"tipsToRemember": ["Take deep breaths to keep your shoulders relaxed.", "Use your body to move yourself forward and backward."]
+		"tipsToRemember": ["Take deep breaths to keep your shoulders relaxed.", "Use your body to move yourself forward and backward."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-35",
@@ -454,7 +484,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Adduction", "Abduction"],
 		"equipment": ["Chair"],
-		"tipsToRemember": ["Take deep breaths to keep your shoulders relaxed.", "Use your body to move yourself from side to side."]
+		"tipsToRemember": ["Take deep breaths to keep your shoulders relaxed.", "Use your body to move yourself from side to side."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-36",
@@ -467,7 +498,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Circumduction"],
 		"equipment": ["Chair"],
-		"tipsToRemember": ["Take deep breaths to keep your shoulders relaxed.", "Use your body to move yourself in a circular motion."]
+		"tipsToRemember": ["Take deep breaths to keep your shoulders relaxed.", "Use your body to move yourself in a circular motion."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-37",
@@ -480,7 +512,8 @@
 		"objective": ["Mobility", "Strengthening"],
 		"movement": ["Flexion", "Extension"],
 		"equipment": ["Chair"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Maintain your gaze straight ahead."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Maintain your gaze straight ahead."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-38",
@@ -493,7 +526,8 @@
 		"objective": ["Stretching"],
 		"movement": ["Extension"],
 		"equipment": ["Table"],
-		"tipsToRemember": ["Keep the arms straight, but do not lock the elbows.", "Learn on the table for support if needed."]
+		"tipsToRemember": ["Keep the arms straight, but do not lock the elbows.", "Learn on the table for support if needed."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-39",
@@ -506,7 +540,8 @@
 		"objective": ["Stretching"],
 		"movement": ["Flexion"],
 		"equipment": ["Table"],
-		"tipsToRemember": ["Keep the arms straight, but do not lock the elbows.", "Learn on the table for support if needed."]
+		"tipsToRemember": ["Keep the arms straight, but do not lock the elbows.", "Learn on the table for support if needed."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-40",
@@ -519,7 +554,8 @@
 		"objective": ["Stretching"],
 		"movement": ["Flexion"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Make sure that your palms stay together during the stretch and keep your shoulders relaxed."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Make sure that your palms stay together during the stretch and keep your shoulders relaxed."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-41",
@@ -532,7 +568,8 @@
 		"objective": ["Stretching"],
 		"movement": ["Extension"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Stop if you feel pain or tingling along the inside of the wrist."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Stop if you feel pain or tingling along the inside of the wrist."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-42",
@@ -545,7 +582,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Flexion"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Be gentle and avoid squeezing your hand too tightly."]
+		"tipsToRemember": ["Be gentle and avoid squeezing your hand too tightly."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-43",
@@ -558,7 +596,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Flexion"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Be gentle and avoid squeezing your hand too tightly."]
+		"tipsToRemember": ["Be gentle and avoid squeezing your hand too tightly."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-44",
@@ -571,7 +610,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Adduction"],
 		"equipment": ["Table"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep the wrist still, focusing on moving only one finger at a time."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep the wrist still, focusing on moving only one finger at a time."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-45",
@@ -584,7 +624,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Abduction"],
 		"equipment": ["Table"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep the wrist still, focusing on moving only one finger at a time."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep the wrist still, focusing on moving only one finger at a time."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-46",
@@ -597,7 +638,8 @@
 		"objective": ["Strengthening", "Stability"],
 		"movement": ["Abduction"],
 		"equipment": ["Table"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Maintain your gaze straight ahead."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Maintain your gaze straight ahead."],
+	"readyToDeploy": false
 	},
 	{
 		"id": "E-47",
@@ -610,7 +652,8 @@
 		"objective": ["Strengthening"],
 		"movement": ["Flexion"],
 		"equipment": ["Dumbbells"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your elbows locked to the side of your body.", "To control the downward movement, exhale while letting the shoulders relax."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your elbows locked to the side of your body.", "To control the downward movement, exhale while letting the shoulders relax."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-48",
@@ -623,7 +666,8 @@
 		"objective": ["Strengthening", "Stability"],
 		"movement": ["Extension"],
 		"equipment": ["Bench"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your hands straight above your chest.", "Extend your arms without lifting your shoulders."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your hands straight above your chest.", "Extend your arms without lifting your shoulders."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-49",
@@ -636,7 +680,8 @@
 		"objective": ["Strengthening", "Mobility"],
 		"movement": ["Abduction"],
 		"equipment": ["Bench"],
-		"tipsToRemember": ["Relax the shoulders and push only with your elbows.", "Take deep breaths to keep your shoulders relaxed."]
+		"tipsToRemember": ["Relax the shoulders and push only with your elbows.", "Take deep breaths to keep your shoulders relaxed."],
+	"readyToDeploy": false
 	},
 	{
 		"id": "E-50",
@@ -649,7 +694,8 @@
 		"objective": ["Strengthening", "Mobility", "Stability"],
 		"movement": ["Extension"],
 		"equipment": ["Table"],
-		"tipsToRemember": ["Keep your arm straight, but do not lock the elbows.", "Use your uninjured arm to help you keep the straight position."]
+		"tipsToRemember": ["Keep your arm straight, but do not lock the elbows.", "Use your uninjured arm to help you keep the straight position."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-51",
@@ -662,7 +708,8 @@
 		"objective": ["Mobility", "Stability"],
 		"movement": ["Extension"],
 		"equipment": ["Chair"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Take deep breaths to keep your shoulder and arm relaxed, allowing the helper to move your arm."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Take deep breaths to keep your shoulder and arm relaxed, allowing the helper to move your arm."],
+	"readyToDeploy": false
 	},
 	{
 		"id": "E-52",
@@ -675,7 +722,8 @@
 		"objective": ["Mobility", "Stability"],
 		"movement": ["Extension"],
 		"equipment": ["Table"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your arm straight, but do not lock the elbows."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your arm straight, but do not lock the elbows."],
+	"readyToDeploy": false
 	},
 	{
 		"id": "E-53",
@@ -688,7 +736,8 @@
 		"objective": ["Mobility", "Stability"],
 		"movement": ["Extension"],
 		"equipment": ["Stick"],
-		"tipsToRemember": ["Keep your arm straight, but do not lock the elbows.", "Use your uninjured arm to help you stretch out the affected arm."]
+		"tipsToRemember": ["Keep your arm straight, but do not lock the elbows.", "Use your uninjured arm to help you stretch out the affected arm."],
+	"readyToDeploy": false
 	},
 	{
 		"id": "E-54",
@@ -701,7 +750,8 @@
 		"objective": ["Mobility", "Stability"],
 		"movement": ["Abduction"],
 		"equipment": ["Stick"],
-		"tipsToRemember": ["Keep your arm straight, but do not lock the elbows.", "Use your uninjured arm to help you stretch out the affected arm."]
+		"tipsToRemember": ["Keep your arm straight, but do not lock the elbows.", "Use your uninjured arm to help you stretch out the affected arm."],
+	"readyToDeploy": false
 	},
 	{
 		"id": "E-55",
@@ -714,7 +764,8 @@
 		"objective": ["Mobility", "Stretching"],
 		"movement": ["Extension"],
 		"equipment": ["Bottle", "Table"],
-		"tipsToRemember": ["Keep your arm straight, but do not lock the elbows.", "Use your uninjured arm to help you stretch out the affected arm."]
+		"tipsToRemember": ["Keep your arm straight, but do not lock the elbows.", "Use your uninjured arm to help you stretch out the affected arm."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-56",
@@ -727,7 +778,8 @@
 		"objective": ["Mobility", "Strengthening"],
 		"movement": ["Extension"],
 		"equipment": ["Bottle", "Table"],
-		"tipsToRemember": ["Keep your arm straight, but do not lock the elbows.", "Use your uninjured arm to help you move the affected arm."]
+		"tipsToRemember": ["Keep your arm straight, but do not lock the elbows.", "Use your uninjured arm to help you move the affected arm."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-57",
@@ -740,7 +792,8 @@
 		"objective": ["Mobility", "Strengthening"],
 		"movement": ["Extension"],
 		"equipment": ["Bottle", "Table"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your arm on the surface of the table."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your arm on the surface of the table."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-58",
@@ -753,7 +806,8 @@
 		"objective": ["Mobility", "Strengthening"],
 		"movement": ["Abduction", "Adduction"],
 		"equipment": ["Bottle", "Table"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Relax the shoulders and push only with your elbows.", "Keep your arm on the surface of the table."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Relax the shoulders and push only with your elbows.", "Keep your arm on the surface of the table."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-59",
@@ -766,7 +820,8 @@
 		"objective": ["Mobility", "Stability"],
 		"movement": ["Flexion", "Extension"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Limit the amount of side to side shoulder movement."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Limit the amount of side to side shoulder movement."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-60",
@@ -779,7 +834,8 @@
 		"objective": ["Mobility", "Stability"],
 		"movement": ["Flexion", "Extension"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your elbow above your chest.", "Limit the amount of side to side shoulder movement."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Keep your elbow above your chest.", "Limit the amount of side to side shoulder movement."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-61",
@@ -792,7 +848,8 @@
 		"objective": ["Functional"],
 		"movement": ["Flexion", "Extension"],
 		"equipment": ["Cup", "Table"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "When you feel comfortable, use cups of different sizes and weight."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "When you feel comfortable, use cups of different sizes and weight."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-62",
@@ -805,7 +862,8 @@
 		"objective": ["Functional"],
 		"movement": ["Flexion", "Extension"],
 		"equipment": ["Cup", "Table"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "When you feel comfortable, use cups of different sizes and weight."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "When you feel comfortable, use cups of different sizes and weight."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-63",
@@ -818,7 +876,8 @@
 		"objective": ["Functional"],
 		"movement": ["Internal Rotation", "Flexion"],
 		"equipment": ["Ball", "Table"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "When you feel comfortable, use a smaller ball, or place your hands further apart."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "When you feel comfortable, use a smaller ball, or place your hands further apart."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-64",
@@ -831,7 +890,8 @@
 		"objective": ["Functional"],
 		"movement": ["Flexion"],
 		"equipment": ["Ball", "Table"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "When you feel comfortable, try switching your hands so that the more affected arm is dropping the ball."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "When you feel comfortable, try switching your hands so that the more affected arm is dropping the ball."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-65",
@@ -844,7 +904,8 @@
 		"objective": ["Functional", "Strengthening", "Functional"],
 		"movement": ["Flexion"],
 		"equipment": ["Table", "Towel"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Maintain your gaze straight ahead.", "Squeeze an imaginary walnut between your shoulder blades."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Maintain your gaze straight ahead.", "Squeeze an imaginary walnut between your shoulder blades."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-66",
@@ -857,7 +918,8 @@
 		"objective": ["Strengthening"],
 		"movement": ["Flexion"],
 		"equipment": ["Dumbells"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Maintain your gaze straight ahead.", "Pull your abdominals to maintain balance."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Maintain your gaze straight ahead.", "Pull your abdominals to maintain balance."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-67",
@@ -870,7 +932,8 @@
 		"objective": ["Stretching"],
 		"movement": ["Flexion"],
 		"equipment": ["Towel"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Maintain your gaze straight ahead.", "Make sure the towel stays along the length of your spine."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Maintain your gaze straight ahead.", "Make sure the towel stays along the length of your spine."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-68",
@@ -883,7 +946,8 @@
 		"objective": ["Stretching"],
 		"movement": ["Flexion"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Maintain your gaze straight ahead.", "Squeeze an imaginary walnut between your shoulder blades."]
+		"tipsToRemember": ["Push your chest out and pull your shoulders back.", "Maintain your gaze straight ahead.", "Squeeze an imaginary walnut between your shoulder blades."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-69",
@@ -896,7 +960,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Pronation", "Supination"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Don't swing the arm. Try to keep the same level of force throughout the movement."]
+		"tipsToRemember": ["Don't swing the arm. Try to keep the same level of force throughout the movement."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-70",
@@ -909,7 +974,8 @@
 		"objective": ["Mobility", "Strengthening"],
 		"movement": ["Flexion", "Extension"],
 		"equipment": ["Chair", "Table"],
-		"tipsToRemember": ["Make sure to hold the elbow still and only move the forearm.", "Don't swing the arm. Try to keep the same level of force throughout the movement."]
+		"tipsToRemember": ["Make sure to hold the elbow still and only move the forearm.", "Don't swing the arm. Try to keep the same level of force throughout the movement."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-71",
@@ -922,7 +988,8 @@
 		"objective": ["Mobility", "Strengthening"],
 		"movement": ["Adduction", "Abduction"],
 		"equipment": ["Chair", "Table"],
-		"tipsToRemember": ["Make sure to hold the elbow still and only move the forearm.", "Don't swing the arm. Try to keep the same level of force throughout the movement."]
+		"tipsToRemember": ["Make sure to hold the elbow still and only move the forearm.", "Don't swing the arm. Try to keep the same level of force throughout the movement."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-72",
@@ -935,7 +1002,8 @@
 		"objective": ["Mobility", "Strengthening", "Functional"],
 		"movement": ["Flexion", "Extension", "Abduction", "Adduction"],
 		"equipment": ["Chair", "Table", "Paper"],
-		"tipsToRemember": ["To make this task easier, crumple a hand towel.", "To make this task harder, you can tear the paper into strips."]
+		"tipsToRemember": ["To make this task easier, crumple a hand towel.", "To make this task harder, you can tear the paper into strips."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-73",
@@ -948,7 +1016,8 @@
 		"objective": ["Mobility", "Strengthening", "Functional"],
 		"movement": ["Flexion", "Extension", "Abduction", "Adduction"],
 		"equipment": ["Chair", "Table", "Coins"],
-		"tipsToRemember": ["Make sure to not lift your elbow and shoulder while stacking the coins.", "When you feel comfortable, increase the number of coins to be counted, and your speed."]
+		"tipsToRemember": ["Make sure to not lift your elbow and shoulder while stacking the coins.", "When you feel comfortable, increase the number of coins to be counted, and your speed."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-74",
@@ -961,7 +1030,8 @@
 		"objective": ["Mobility", "Strengthening", "Functional"],
 		"movement": ["Flexion", "Extension", "Abduction", "Adduction"],
 		"equipment": ["Chair", "Table", "Paper", "Scissors"],
-		"tipsToRemember": ["When you feel comfortable, draw more complicated shapes.", "Draw shapes onto different thicknesses of paper."]
+		"tipsToRemember": ["When you feel comfortable, draw more complicated shapes.", "Draw shapes onto different thicknesses of paper."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-75",
@@ -974,7 +1044,8 @@
 		"objective": ["Mobility", "Functional"],
 		"movement": ["Flexion", "Extension", "Abduction", "Adduction", "Internal Rotation", "External Rotation"],
 		"equipment": ["Chair", "Table", "Cards"],
-		"tipsToRemember": ["Be sure to use your entire upper body to spread the cards", "When you feel comfortable, increase the number of cards to be spread, and your speed."]
+		"tipsToRemember": ["Be sure to use your entire upper body to spread the cards", "When you feel comfortable, increase the number of cards to be spread, and your speed."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-76",
@@ -987,7 +1058,8 @@
 		"objective": ["Mobility", "Functional"],
 		"movement": ["Flexion", "Extension", "Abduction", "Adduction", "Internal Rotation", "External Rotation"],
 		"equipment": ["Chair", "Table", "Cards"],
-		"tipsToRemember": ["If you are able, shuffle the cards", "When you feel comfortable, increase the number of cards to be sorted, and your speed."]
+		"tipsToRemember": ["If you are able, shuffle the cards", "When you feel comfortable, increase the number of cards to be sorted, and your speed."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-77",
@@ -1000,7 +1072,8 @@
 		"objective": ["Mobility", "Functional"],
 		"movement": ["Flexion", "Extension", "Abduction", "Adduction", "Internal Rotation", "External Rotation"],
 		"equipment": ["Chair", "Table", "Cards"],
-		"tipsToRemember": ["If you are able, shuffle the cards", "When you feel comfortable, increase the number of cards to be dealt, and your speed."]
+		"tipsToRemember": ["If you are able, shuffle the cards", "When you feel comfortable, increase the number of cards to be dealt, and your speed."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-78",
@@ -1013,7 +1086,8 @@
 		"objective": ["Mobility", "Functional"],
 		"movement": ["Flexion", "Extension"],
 		"equipment": ["Chair", "Table", "Pencil"],
-		"tipsToRemember": ["When you feel comfortable, increase your speed whilst maintaining your accuracy."]
+		"tipsToRemember": ["When you feel comfortable, increase your speed whilst maintaining your accuracy."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-79",
@@ -1026,7 +1100,8 @@
 		"objective": ["Mobility", "Functional"],
 		"movement": ["Flexion", "Extension"],
 		"equipment": ["Chair", "Table", "Pencil"],
-		"tipsToRemember": ["When you feel comfortable, increase your speed whilst maintaining your accuracy."]
+		"tipsToRemember": ["When you feel comfortable, increase your speed whilst maintaining your accuracy."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-80",
@@ -1039,7 +1114,8 @@
 		"objective": ["Mobility", "Functional"],
 		"movement": ["Flexion", "Extension", "Adduction", "Abduction"],
 		"equipment": ["Chair", "Table", "Pencil"],
-		"tipsToRemember": ["When you feel comfortable, increase your speed whilst maintaining your accuracy."]
+		"tipsToRemember": ["When you feel comfortable, increase your speed whilst maintaining your accuracy."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-81",
@@ -1052,7 +1128,8 @@
 		"objective": ["Mobility", "Functional"],
 		"movement": ["Flexion", "Extension", "Adduction", "Abduction", "Opposition"],
 		"equipment": ["Chair", "Table", "Peg", "Container"],
-		"tipsToRemember": ["Place your unaffected hand on the table for stability.", "When you feel comfortable, use a cup to increase difficulty."]
+		"tipsToRemember": ["Place your unaffected hand on the table for stability.", "When you feel comfortable, use a cup to increase difficulty."],
+	"readyToDeploy": false
 	},
 	{
 		"id": "E-82",
@@ -1065,7 +1142,8 @@
 		"objective": ["Mobility", "Functional"],
 		"movement": ["Flexion", "Extension", "Adduction", "Abduction", "Opposition"],
 		"equipment": ["Chair", "Table", "Sticks", "Container"],
-		"tipsToRemember": ["Place your unaffected hand on the table for stability.", "When you feel comfortable, use a cup to increase difficulty."]
+		"tipsToRemember": ["Place your unaffected hand on the table for stability.", "When you feel comfortable, use a cup to increase difficulty."],
+	"readyToDeploy": false
 	},
 	{
 		"id": "E-83",
@@ -1078,7 +1156,8 @@
 		"objective": ["Mobility", "Functional"],
 		"movement": ["Flexion", "Extension", "Adduction", "Abduction", "Opposition"],
 		"equipment": ["Chair", "Table", "Coins"],
-		"tipsToRemember": ["Try not to flip the coins over by slide over the edge of the table.", "When you feel comfortable, increase your speed whilst maintaining your accuracy."]
+		"tipsToRemember": ["Try not to flip the coins over by slide over the edge of the table.", "When you feel comfortable, increase your speed whilst maintaining your accuracy."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-84",
@@ -1091,7 +1170,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Flexion", "Extension"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Focus on accuracy rather than speed."]
+		"tipsToRemember": ["Focus on accuracy rather than speed."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-85",
@@ -1104,7 +1184,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Flexion", "Extension"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Focus on accuracy rather than speed."]
+		"tipsToRemember": ["Focus on accuracy rather than speed."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-86",
@@ -1117,7 +1198,8 @@
 		"objective": ["Strengthening"],
 		"movement": ["Flexion"],
 		"equipment": ["Ball"],
-		"tipsToRemember": ["Try to keep the same level of force throughout the movement."]
+		"tipsToRemember": ["Try to keep the same level of force throughout the movement."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-87",
@@ -1130,7 +1212,8 @@
 		"objective": ["Mobility"],
 		"movement": ["Flexion"],
 		"equipment": ["None"],
-		"tipsToRemember": ["Focus on accuracy rather than speed."]
+		"tipsToRemember": ["Focus on accuracy rather than speed."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-88",
@@ -1143,7 +1226,8 @@
 		"objective": ["Strengthening"],
 		"movement": ["Flexion"],
 		"equipment": ["Ball"],
-		"tipsToRemember": ["Try to keep the same level of force throughout the movement."]
+		"tipsToRemember": ["Try to keep the same level of force throughout the movement."],
+	"readyToDeploy": true
 	},
 	{
 		"id": "E-89",
@@ -1156,6 +1240,7 @@
 		"objective": ["Strengthening"],
 		"movement": ["Pronation", "Supination"],
 		"equipment": ["Dumbbell", "Table", "Chair"],
-		"tipsToRemember": ["Don't swing the dumbbell. Avoid rapid or jerking movements."]
+		"tipsToRemember": ["Don't swing the dumbbell. Avoid rapid or jerking movements."],
+	"readyToDeploy": true
 	}
 ]
