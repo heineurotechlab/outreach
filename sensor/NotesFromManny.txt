@@ -1,0 +1,10 @@
+MatLab Code
+* Info on the Madgwick Filtering (AHRS): https://x-io.co.uk/open-source-imu-and-ahrs-algorithms/
+
+
+Android Studio Code
+link to a project done by Myles, the student who developed the voice control interface for David’s exo glove. It is an Android app with Bluetooth connection to an ESP32 microcontroller. Hopefully it is helpful.
+·  Project report: https://docs.google.com/document/d/1dg37yk1IITnFc1vy3AIEtIfQjNv5G_6lJ8MHC5YH394/edit?usp=sharing
+·  Code: https://github.com/mylespedronan/prosthetic
+
+

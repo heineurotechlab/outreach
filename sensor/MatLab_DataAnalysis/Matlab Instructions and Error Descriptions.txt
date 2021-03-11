@@ -1,0 +1,75 @@
+How to call the MATLAB scripts?
+
+
+Make sure the CSV (see option1), scripts, Quaternions Folder, and trial data are the same folder. This should ideally be your current MATLAB working directory.
+
+
+Option 1: Automatic Processing
+
+You must create a CSV to act as a guide/log for the MATLAB script. 
+Tip: Create this file as an Excel File and "save". Then "save as" and choose CSV. Always exit your Excel Version, "save", then "save as" CSV.
+
+This file should contain: 
+ColumnA: Subject Number (not necessary to have a leading 0 as shown in the template).
+ColumnB: Trial Number
+ColumnC: Hand (“Dom” or” NonDom”) (You could use your own naming for this section, but be consistent with all trials)
+ColumnD: Activity ("Block" "Drink" "Water"    These are case sensitive. If another name is given, then metrics will be 0’s on the CSV)
+ColumnE,F,G,etc: You can use this space for any notes during/after the the trials.
+
+
+
+Change line 5 of the MasterE.m script. Enter the appropriate file name (CSV).
+
+Run:
+
+'Processing Trials' will be printed to the command window at the start.
+'Processing Complete' will be printed to the command window when the combined CSV is ready.
+
+The output will be in the form of a CSV. The file will be called "CombinedOutput_TaskTitle_Date_Time.csv"
+
+
+
+Option2: Viewing the trials individually.
+
+
+Enter the following in the command terminal.
+
+close all; clear; SensorKinematicsE('Sen', 12,3, 2, 1);
+
+Replace 'Sen' with the Task Title you used.
+Replace 12 with the Subject Number.
+Replace 3 with the Trial Number.
+Replace 2 with the Activity Code (1 for Block, 2 for Drink(soda can), 3 for Water pouring).
+Leave the 1. This will keep the figures and plots enabled.
+
+
+
+
+Both Methods: Errors will print to the command window as they are detected.
+In most cases the script can continue, but be aware of the error since the CSV data may be inaccurate for such trials.
+
+See the following descriptions:
+Possible Bad Velocity Error means the start and/or stop is above an acceptable level. The most common cause is the sensor not perfectly still at the start and end of each trial.  This error is also outputted to the CSV with a value of 1 for errorVelocity. 
+	Solutions include trimming the data at the beginning prior to movement. This should be implemented in the SensorKinematicsE.m script. See my included example. This error is not always reliable. Double check the plots before performing any trimming. There must be data samples before and after the movement.
+
+
+Peak Error(s) means the 3 or 4 peaks were not detected. This error will only be printed if it occurs. The script will try 4 peaks for the water and drink activities. If 4 peaks are not detected, then 3 peaks will be used. The script try 3 peaks will be used for the block activity.
+Separate error messages will be used for 3 and 4 peaks if they both occur.
+CSV for TimeToPeak statistics will be based on the peaks successfully detected. If none are, then the script will output 0 for these values in the CSV.
+
+
+Script Error means that the script was not completed all the way through. Missing metrics will be filled with a 0 in the CSV. This error will show up in the CSV as 1 for errorScript .
+
+
+
+
+Note:
+line 475-479 is not implemented. These metrics (corrvaluex, RMSE) are represented as 0's in the CSV. corrvaluex and RMSE are included in the output CSV.  Simply assign a value
+
+    %Correlation and RMSE
+    %     corrx = corrcoef(trimV,trimI);
+    %     corrvaluex = corrx (1,2);
+    %
+    %     RMSE = sqrt(mean((trimV-trimI).^2));
+
+
