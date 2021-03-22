@@ -46,11 +46,11 @@
 {
     "id": "R-5",
     "title": "COVID and Age",
-    "mediaLink": "Resources/images/covid_and_age_infographic.png",
+    "mediaLink": "Resources/images/covid_and_age_animation.mp4",
     "thumbLink": "Resources/images/thumbnails/covid_and_age_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": [],
 	"readyToDeploy": true
   },
@@ -100,7 +100,7 @@
   },
 {
     "id": "R-10",
-    "title": "COVID, Bleach and Methanol",
+    "title": "COVID, Bleach, and Methanol",
     "mediaLink": "Resources/images/covid_bleach_and_methanol_infographic.png",
     "thumbLink": "Resources/images/thumbnails/covid_bleach_and_methanol_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
@@ -199,12 +199,12 @@
   },
 {
     "id": "R-19",
-    "title": "Diabetes Footcare",
-    "mediaLink": "Resources/images/diabetes_footcare_infographic.png",
+    "title": "Diabetes Foot Care",
+    "mediaLink": "Resources/images/diabetes_footcare_animation.mp4",
     "thumbLink": "Resources/images/thumbnails/diabetes_footcare_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions","Injury Prevention"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Check the top and bottom of your feet every day for cracks, abraisions, redness, tenderness, and toenail irregularities.", "Always wear shoes and socks that protect your feet and fit well.", "Wear footwear that protects your feet from cold, moisture, and avoid shoes with heels and poited toes.", "If a foot problem arises, report it to your doctor or podiatrist."],
 	"readyToDeploy": true
   },
@@ -301,7 +301,7 @@
     "title": "How does COVID Spread?",
     "mediaLink": "Resources/images/how_does_covid_spread_infographic.png",
     "thumbLink": "Resources/images/thumbnails/how_does_covid_spread_infographic_thumbnail.png",
-    "Category": ["Diseses & Conditions"],
+    "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
 	"tipsToRemember": [],
@@ -471,5 +471,17 @@
     "mediaType": "video",
 	"tipsToRemember": [],
 	"readyToDeploy": true
+ },
+ {
+	"id": "R-44",
+    "title": "Habits to Improve Mental Health",
+    "mediaLink": "Resources/videos/habits_to_improve_mental_health_animation.mp4",
+    "thumbLink": "Resources/images/thumbnails/improve_mental_health_infographic_thumbnail.png",
+    "Category": ["Healthy Living"],
+	"description": "",
+    "mediaType": "video",
+	"tipsToRemember": [],
+	"readyToDeploy": true
  }
+
 ]
