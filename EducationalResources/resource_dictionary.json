@@ -233,11 +233,11 @@
 {
     "id": "R-22",
     "title": "Discomfort vs Pain",
-    "mediaLink": "Resources/images/discomfort_vs_pain_infographic.png",
+    "mediaLink": "Resources/images/discomfort_vs_pain_animation.mp4",
     "thumbLink": "Resources/images/thumbnails/discomfort_vs_pain_infographic_thumbnail.png",
     "Category": ["Rehabilitation","Injury Prevention"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Length of time matters, discofort may last a few days, but pain will last longer and make it difficult to partake in activities of daily living.", "Location matters, discomfort is felt in muscles, whereas pain may be felt in muscles, but is often felt in joints.", "Keep in mind that these differences are specific to acute pain and discomfort and do not go into the nuances of chronic pain."],
 	"readyToDeploy": true
   },
@@ -463,10 +463,10 @@
  },
  {
 	"id": "R-43",
-    "title": "Discomfort vs Pain",
-    "mediaLink": "Resources/videos/discomfort_vs_pain_animation.mp4",
-    "thumbLink": "Resources/images/thumbnails/discomfort_vs_pain_infographic_thumbnail.png",
-    "Category": ["Injury Prevention","Rehabilitation"],
+    "title": "Preventing another Stroke",
+    "mediaLink": "Resources/videos/preventing_another_stroke_animation.mp4",
+    "thumbLink": "Resources/images/thumbnails/preventing_another_stroke_infographic_thumbnail.png",
+    "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "video",
 	"tipsToRemember": [],
@@ -482,6 +482,29 @@
     "mediaType": "video",
 	"tipsToRemember": [],
 	"readyToDeploy": true
+ },
+ {
+	"id": "R-45",
+    "title": "Recovering from Stroke",
+    "mediaLink": "Resources/videos/recovering_from_stroke_animation.mp4",
+    "thumbLink": "Resources/images/thumbnails/recovering_from_stroke_infographic_thumbnail.png",
+    "Category": ["Diseases & Conditions"],
+	"description": "",
+    "mediaType": "video",
+	"tipsToRemember": [],
+	"readyToDeploy": true
+ },
+{
+	"id": "R-46",
+    "title": "Positive Mental Wellbeing",
+    "mediaLink": "Resources/videos/positive_mental_wellbeing_animation.mp4",
+    "thumbLink": "Resources/images/thumbnails/positive_mental_wellbeing_infographic_thumbnail.png",
+    "Category": ["Healthy Living"],
+	"description": "",
+    "mediaType": "video",
+	"tipsToRemember": [],
+	"readyToDeploy": true
  }
+
 
 ]
