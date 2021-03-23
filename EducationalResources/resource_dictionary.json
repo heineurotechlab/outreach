@@ -51,7 +51,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [],
+	"tipsToRemember": ["The older an individual is, the higher risk they are at for serve illness due to COVID.", "Severe illness refers to hospitalization, intensive care, the required use of a ventilator, and even death."],
 	"readyToDeploy": true
   },
 {
@@ -480,7 +480,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Do your best to take care of your body through sleep, diet, and exercise.", "Keep alcohol use to a minimum and avoid other drugs.", "Get help when you need it, people who get mental health care can can keep their mental health under control." ],
 	"readyToDeploy": true
  },
  {
