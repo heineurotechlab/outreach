@@ -469,7 +469,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Remenber, it is extremely important that you take your medications exactly as instructed by your doctor.", "Make sure you embrace a healthy diet. This includes eating white meats instead of red meats, and fruits and vegetables instead of bread and other carbohydrates.", "Get support from your family and the community as many folks get depressed after they have a stroke."],
 	"readyToDeploy": true
  },
  {
@@ -478,7 +478,7 @@
     "mediaLink": "Resources/videos/habits_to_improve_mental_health_animation.mp4",
     "thumbLink": "Resources/images/thumbnails/improve_mental_health_infographic_thumbnail.png",
     "Category": ["Healthy Living"],
-	"description": "",
+	"description": "",r.rr
     "mediaType": "video",
 	"tipsToRemember": ["Do your best to take care of your body through sleep, diet, and exercise.", "Keep alcohol use to a minimum and avoid other drugs.", "Get help when you need it, people who get mental health care can can keep their mental health under control." ],
 	"readyToDeploy": true
@@ -491,7 +491,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Remember, stroke recovery can be a long and slow process, it is not uncommon for a plateau occur around the three month mark. At this point, recovery may slow down, but it will not stop as long as you keep participating in rehabilitation.", "For stroke recovery, to improve your body movements, it is important to practice. Repetition is key." ],
 	"readyToDeploy": true
  },
 {
@@ -502,7 +502,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Eating well, avoiding drug use, consuming enough water, exercising, and getting enough sleep will all help you with your mental health.", "Surround yourself with a healthy support network.", "It can also be helpful to set realistic, obtainable goals."],
 	"readyToDeploy": true
  }
 
