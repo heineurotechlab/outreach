@@ -46,7 +46,7 @@
 {
     "id": "R-5",
     "title": "COVID and Age",
-    "mediaLink": "Resources/images/covid_and_age_animation.mp4",
+    "mediaLink": "Resources/videos/covid_and_age_animation.mp4",
     "thumbLink": "Resources/images/thumbnails/covid_and_age_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
@@ -200,12 +200,12 @@
 {
     "id": "R-19",
     "title": "Diabetic Foot Care",
-    "mediaLink": "Resources/images/diabetic_footcare_animation.mp4",
+    "mediaLink": "Resources/videos/diabetic_footcare_animation.mp4",
     "thumbLink": "Resources/images/thumbnails/diabetic_footcarthumbnail.png",
     "Category": ["Diseases & Conditions","Injury Prevention"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": ["Check the top and bottom of your feet every day for cracks, abraisions, redness, tenderness, and toenail irregularities.", "Always wear shoes and socks that protect your feet and fit well.", "Wear footwear that protects your feet from cold, moisture, and avoid shoes with heels and poited toes.", "If a foot problem arises, report it to your doctor or podiatrist."],
+	"tipsToRemember": ["Check the top and bottom of your feet every day for cracks, abrasions, redness, tenderness, and toenail irregularities.", "Always wear shoes and socks that protect your feet and fit well.", "Wear footwear that protects your feet from cold, moisture, and avoid shoes with heels and pointed toes.", "If a foot problem arises, report it to your doctor or podiatrist."],
 	"readyToDeploy": true
   },
 {
@@ -233,12 +233,12 @@
 {
     "id": "R-22",
     "title": "Discomfort vs Pain",
-    "mediaLink": "Resources/images/discomfort_vs_pain_animation.mp4",
+    "mediaLink": "Resources/videos/discomfort_vs_pain_animation.mp4",
     "thumbLink": "Resources/images/thumbnails/discomfort_vs_pain_thumbnail.png",
     "Category": ["Rehabilitation","Injury Prevention"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": ["Length of time matters, discofort may last a few days, but pain will last longer and make it difficult to partake in activities of daily living.", "Location matters, discomfort is felt in muscles, whereas pain may be felt in muscles, but is often felt in joints.", "Keep in mind that these differences are specific to acute pain and discomfort and do not go into the nuances of chronic pain."],
+	"tipsToRemember": ["Length of time matters, discomfort may last a few days, but pain will last longer and make it difficult to partake in activities of daily living.", "Location matters, discomfort is felt in muscles, whereas pain may be felt in muscles, but is often felt in joints.", "Keep in mind that these differences are specific to acute pain and discomfort and do not go into the nuances of chronic pain."],
 	"readyToDeploy": true
   },
 {
@@ -321,7 +321,7 @@
 {
     "id": "R-30",
     "title": "Hypertension Diet",
-    "mediaLink": "Resources/images/hypertension_diet_animation.mp4",
+    "mediaLink": "Resources/videos/hypertension_diet_animation.mp4",
     "thumbLink": "Resources/images/thumbnails/hypertension_diet_thumbnail.png",
     "Category": ["Diseases & Conditions","Healthy Living"],
 	"description": "",
@@ -343,12 +343,12 @@
 {
     "id": "R-32",
     "title": "Importance of Rehabilitation",
-    "mediaLink": "Resources/images/importance_of_rehabilitation_animation.mp4",
+    "mediaLink": "Resources/videos/importance_of_rehabilitation_animation.mp4",
     "thumbLink": "Resources/images/thumbnails/importance_of_rehabilitation_thumbnail.png",
     "Category": ["Injury Prevention","Rehabilitation"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": ["Keeping up your motivation for rehabilition can be challenging, but some things that may help include setting goals, and involving family or friends.", "Some benefits to rehabilitation include the reduction or elimination of pain, improved mobility and balance, prevention of future injuries, and overall health management."],
+	"tipsToRemember": ["Keeping up your motivation for rehabilitation can be challenging, but some things that may help include setting goals, and involving family or friends.", "Some benefits to rehabilitation include the reduction or elimination of pain, improved mobility and balance, prevention of future injuries, and overall health management."],
 	"readyToDeploy": true
   },
 {
@@ -403,7 +403,7 @@
     "Category": ["Healthy Living","Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": ["Tie taking your medications into your daily routine.", "Take your medication at the same time daily.", "Keep a 'medicine caldendar' with your medications and note each time to take a dose.", "When traveling, make sure you bring enough of your medication, plus a few days extra, in case of delays, and if you are flying, keep your medication in your carry-on baggage."],
+	"tipsToRemember": ["Tie taking your medications into your daily routine.", "Take your medication at the same time daily.", "Keep a 'medicine calendar' with your medications and note each time to take a dose.", "When traveling, make sure you bring enough of your medication, plus a few days extra, in case of delays, and if you are flying, keep your medication in your carry-on baggage."],
 	"readyToDeploy": true
   },
 {
@@ -442,7 +442,7 @@
 {
     "id": "R-41",
     "title": "Stroke Symptoms",
-    "mediaLink": "Resources/images/stroke_symptoms_animation.mp4",
+    "mediaLink": "Resources/videos/stroke_symptoms_animation.mp4",
     "thumbLink": "Resources/images/thumbnails/stroke_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
@@ -469,7 +469,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": ["Remenber, it is extremely important that you take your medications exactly as instructed by your doctor.", "Make sure you embrace a healthy diet. This includes eating white meats instead of red meats, and fruits and vegetables instead of bread and other carbohydrates.", "Get support from your family and the community as many folks get depressed after they have a stroke."],
+	"tipsToRemember": ["Remember, it is extremely important that you take your medications exactly as instructed by your doctor.", "Make sure you embrace a healthy diet. This includes eating white meats instead of red meats, and fruits and vegetables instead of bread and other carbohydrates.", "Get support from your family and the community as many folks get depressed after they have a stroke."],
 	"readyToDeploy": true
  },
  {
@@ -517,6 +517,4 @@
 	"tipsToRemember": [""],
 	"readyToDeploy": true
  }
-
-
 ]
