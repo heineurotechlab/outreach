@@ -573,16 +573,13 @@
  },
 {
 	"id": "R-53",
-    "title": "Title",
-    "mediaLink": "Resources/videos/title_animation.mp4",
-    "thumbLink": "Resources/images/thumbnails/title_thumbnail.png",
-    "Category": ["xxx"],
+    "title": "Walking Tips",
+    "mediaLink": "Resources/videos/walking_tips_animation.mp4",
+    "thumbLink": "Resources/images/thumbnails/walking_tips_thumbnail.png",
+    "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
 	"tipsToRemember": [""],
-	"readyToDeploy": false
-
-
-
-
+	"readyToDeploy": true
+}
 ]
