@@ -166,7 +166,7 @@
   },
 {
     "id": "R-16",
-    "title": "Depression Symptoms",
+    "title": "Symptoms of Depression",
     "mediaLink": "Resources/videos/depression_symptoms_animation.mp4",
     "thumbLink": "Resources/images/thumbnails/depression_symptoms_thumbnail.png",
     "Category": ["Diseases & Conditions","Healthy Living"],
@@ -201,7 +201,7 @@
     "id": "R-19",
     "title": "Diabetic Foot Care",
     "mediaLink": "Resources/videos/diabetic_footcare_animation.mp4",
-    "thumbLink": "Resources/images/thumbnails/diabetic_footcarthumbnail.png",
+    "thumbLink": "Resources/images/thumbnails/diabetic_footcare_thumbnail.png",
     "Category": ["Diseases & Conditions","Injury Prevention"],
 	"description": "",
     "mediaType": "video",
@@ -298,9 +298,9 @@
   },
 {
     "id": "R-28",
-    "title": "How does COVID Spread?",
-    "mediaLink": "Resources/images/how_does_covid_spread_infographic.png",
-    "thumbLink": "Resources/images/thumbnails/how_does_covid_spread_infographic_thumbnail.png",
+    "title": "How to Prevent a Heart Attack",
+    "mediaLink": "Resources/images/how_to_prevent_a_heart_attack_infographic.png",
+    "thumbLink": "Resources/images/thumbnails/how_to_prevent_a_heart_attack_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
@@ -441,9 +441,9 @@
   },
 {
     "id": "R-41",
-    "title": "Stroke Symptoms",
-    "mediaLink": "Resources/videos/stroke_symptoms_animation.mp4",
-    "thumbLink": "Resources/images/thumbnails/stroke_symptoms_infographic_thumbnail.png",
+    "title": "Signs of Stroke",
+    "mediaLink": "Resources/videos/signs_of_stroke_animation.mp4",
+    "thumbLink": "Resources/images/thumbnails/signs_of_stroke_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "video",
@@ -503,9 +503,8 @@
 	"description": "",
     "mediaType": "video",
 	"tipsToRemember": ["Eating well, avoiding drug use, consuming enough water, exercising, and getting enough sleep will all help you with your mental health.", "Surround yourself with a healthy support network.", "It can also be helpful to set realistic, obtainable goals."],
-	"readyToDeploy": true
- }
-,
+	"readyToDeploy": false
+ },
 {
 	"id": "R-47",
     "title": "Staying Motivated During Rehabilitation",
@@ -516,5 +515,74 @@
     "mediaType": "video",
 	"tipsToRemember": [""],
 	"readyToDeploy": true
- }
+ },
+{
+	"id": "R-48",
+    "title": "Tips for Better Sleep",
+    "mediaLink": "Resources/videos/tips_for_better_sleep_animation.mp4",
+    "thumbLink": "Resources/images/thumbnails/tips_for_better_sleep_thumbnail.png",
+    "Category": ["Healthy Living"],
+	"description": "",
+    "mediaType": "video",
+	"tipsToRemember": [""],
+	"readyToDeploy": true
+ },
+{
+	"id": "R-49",
+    "title": "Work in Your Workout",
+    "mediaLink": "Resources/videos/work_in_your_workout_animation.mp4",
+    "thumbLink": "Resources/images/thumbnails/work_in_your_workout_thumbnail.png",
+    "Category": ["Healthy Living","Rehabilitation"],
+	"description": "",
+    "mediaType": "video",
+	"tipsToRemember": [""],
+	"readyToDeploy": true
+ },
+{
+	"id": "R-50",
+    "title": "Avoid Injury-Causing Mistakes",
+    "mediaLink": "Resources/videos/avoid_injurycausing_mistakes_animation.mp4",
+    "thumbLink": "Resources/images/thumbnails/avoid_injurycausing_mistakes_thumbnail.png",
+    "Category": ["Rehabilitation"],
+	"description": "",
+    "mediaType": "video",
+	"tipsToRemember": [""],
+	"readyToDeploy": true
+ },
+{
+	"id": "R-51",
+    "title": "Meditation Tips",
+    "mediaLink": "Resources/videos/meditation_tips_animation.mp4",
+    "thumbLink": "Resources/images/thumbnails/meditation_tips_thumbnail.png",
+    "Category": ["Healthy Living"],
+	"description": "",
+    "mediaType": "video",
+	"tipsToRemember": [""],
+	"readyToDeploy": true
+ },
+{
+	"id": "R-52",
+    "title": "How to Spot a Heart Attack",
+    "mediaLink": "Resources/videos/how_to_spot_a_heart_attack_animation.mp4",
+    "thumbLink": "Resources/images/thumbnails/how_to_spot_a_heart_attack_thumbnail.png",
+    "Category": ["Diseases & Conditions"],
+	"description": "",
+    "mediaType": "video",
+	"tipsToRemember": [""],
+	"readyToDeploy": true
+ },
+{
+	"id": "R-53",
+    "title": "Title",
+    "mediaLink": "Resources/videos/title_animation.mp4",
+    "thumbLink": "Resources/images/thumbnails/title_thumbnail.png",
+    "Category": ["xxx"],
+	"description": "",
+    "mediaType": "video",
+	"tipsToRemember": [""],
+	"readyToDeploy": false
+
+
+
+
 ]
