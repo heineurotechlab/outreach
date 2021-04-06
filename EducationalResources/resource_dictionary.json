@@ -23,12 +23,12 @@
   },
   {
     "id": "R-3",
-    "title": "Blood Pressure Categories",
-    "mediaLink": "Resources/images/blood_pressure_infographic.png",
+    "title": "Control Your Blood Pressure",
+    "mediaLink": "Resources/images/control_your_blood_pressure_animation.png",
     "thumbLink": "Resources/images/thumbnails/blood_pressure_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": [],
 	"readyToDeploy": true
   },
