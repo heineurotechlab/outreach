@@ -293,7 +293,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Discomfort in the chest that lasts more than a few mintues, or goes away and then returns is a likely sign that an individual is experiencing a heart attack.", "Discofort may also be experienced in other parts of the upper body (arms, back, neck, jaw, stomach).", "Call 911 right away if you, or someone near you, is experiencing symptoms of heart attack."],
 	"readyToDeploy": true
   },
 {
@@ -304,7 +304,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Making lifestyle changes in best way to reduce your risk of experiencing a heart attack.", "Key lifestyle changes include to quit smoking, eat a healthy diet, be physically active daily, and reduce your stress levels.", "It is also helpful to keep track of your cholesterol, control your blood pressure, manage your diabetes, and work with your health care team."],
 	"readyToDeploy": true
   },
 {
@@ -513,7 +513,7 @@
     "Category": ["Healthy Living","Rehabilitation"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Keeping up your motivation for rehabilitation can be challenging, but some things that may help include setting goals, and involving family or friends.", "Other tips include connecting with others who are in recovery, keeping a recovery journal, blog, or videos, and practicing self-care"],
 	"readyToDeploy": true
  },
 {
