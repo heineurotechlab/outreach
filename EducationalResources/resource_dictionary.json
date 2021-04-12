@@ -29,7 +29,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Lifestyle changes can help you keep your blood pressure under control.", " It can be helpful to lose extra weight, stop smoking, and reduce excess stress.", "Another helpful tip is to increase your physical activity levels."],
 	"readyToDeploy": true
   },
 {
@@ -249,7 +249,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Long term effects of excessive alcohol consumption include the development of chronic diseases and other health problems including: high blood pressure, heart disease, stroke, liver disease, and cancer.", "Long terms effects can also lead to detrimental impacts on your brain including: learning challenges, memory issues, and the exacerbation of mental health conditions."],
 	"readyToDeploy": true
   },
 {
