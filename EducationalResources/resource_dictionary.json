@@ -557,7 +557,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Meditation can help reduce stress, manage anxiety, enhance self-awareness, and much more.", "Some tips to help develop your meditation practice include: designating a time and place for meditation, try out different types of meditation to find out what works for you, and find a position that works best for you."],
 	"readyToDeploy": true
  },
 {
@@ -568,7 +568,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Heart attack sympotoms often include pressure/tightness/pain/squeezing in the chest or arms, nausea, shortness of breath, cold sweat, fatigue, and/or sudden lightheadedness.", "Not all people who have a heart attack experience these symptoms.", "If you suspect you, or someone around you is having a heart attack, call 911 immediately."],
 	"readyToDeploy": true
  },
 {
