@@ -524,7 +524,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["A consistent sleep schedule will help, this includes both when you go to bed and when you wake up, and also includes weekends.", "Physical activity during the day can also making falling asleep at night easier.", "Create a restful sleep environment by making sure your room is dark, quiet, and stays at a comfortable temperature."],
 	"readyToDeploy": true
  },
 {
@@ -546,7 +546,7 @@
     "Category": ["Rehabilitation"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Always include time for a warm up and a cool down period, this will help limit the risk of muscle related injury.", "Learn the proper technique, this may mean you need to work with a trainer or consult with a physical therapist.", "Also make sure you stay hydrated by drinking a glass of water before you exercise and throughout your workout."],
 	"readyToDeploy": true
  },
 {
