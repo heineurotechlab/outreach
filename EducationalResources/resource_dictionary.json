@@ -370,7 +370,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Symptoms of kidney failure include (but are not limited to): fatigue, weakness, change in urinations, and sleep challenges.", "Some tips to decrease the risk of kidney failure include: blood sugar management, blood pressure management, maintaining a healthy diet, staying hydrated, regular exercise, and stress reduction."],
 	"readyToDeploy": true
   },
 {
@@ -590,7 +590,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["While on a computer, positioning your screen an arms length away from your face will help with your posture.", "It is also helpful to have your keyboard in a position that allows you to have straight wrists, with your hands at or below elbow level.", "Additionally, your knees should be positioned at hip level with your feet flat on the floor."],
 	"readyToDeploy": true
 },
 {
