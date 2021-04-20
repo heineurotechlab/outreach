@@ -370,7 +370,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Symptoms of kidney failure include (but are not limited to): fatigue, weakness, change in urinations, and sleep challenges.", "Some tips to decrease the risk of kidney failure include: blood sugar management, blood pressure management, maintaining a healthy diet, staying hydrated, regular exercise, and stress reduction."],
 	"readyToDeploy": true
   },
 {
@@ -590,7 +590,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["While on a computer, positioning your screen an arms length away from your face will help with your posture.", "It is also helpful to have your keyboard in a position that allows you to have straight wrists, with your hands at or below elbow level.", "Additionally, your knees should be positioned at hip level with your feet flat on the floor."],
 	"readyToDeploy": true
 },
 {
@@ -601,7 +601,7 @@
     "Category": ["Healthy Living","Diseases and Illnesses"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["As with many tips on staying healthy, some ways to boost your immune system include: eating a healty diet, exercising regularly, getting adequate sleep, decreasing stress, not smoking, and if you drink alcohol, only doing so in moderation.", "Did you know that sunlight, in moderation, can help keep you healthy? This is because sunlight allows your body to naturally produce vitamin D."],
 	"readyToDeploy": true
 },
 {
@@ -832,7 +832,7 @@
     "Category": ["Healthy Living","Diseases and Illnesses"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Osteoporosis is a condition in which bones become brittle and fragile.", "Calcium is what builds strong bones, and vitamin D helps your body absorb calcium, therefore these two minerals can help prevent osteoperosis.", "Healthy foods for osteoporosis prevention include: dairy, fresh fruits and vegetables, lean meats and poultry, and whole grains."],
 	"readyToDeploy": true
 },
 {
