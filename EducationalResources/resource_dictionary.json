@@ -177,7 +177,7 @@
   },
 {
     "id": "R-17",
-    "title": "Complications Associated with Diabetes",
+    "title": "Diabetic Complications",
     "mediaLink": "Resources/images/diabetic_complications_infographic.png",
     "thumbLink": "Resources/images/thumbnails/diabetic_complications_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
@@ -293,7 +293,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": ["Discomfort in the chest that lasts more than a few mintues, or goes away and then returns is a likely sign that an individual is experiencing a heart attack.", "Discofort may also be experienced in other parts of the upper body (arms, back, neck, jaw, stomach).", "Call 911 right away if you, or someone near you, is experiencing symptoms of heart attack."],
+	"tipsToRemember": ["Discomfort in the chest that lasts more than a few mintues, or goes away and then returns is a likely sign that an individual is experiencing a heart attack.", "Discomfort may also be experienced in other parts of the upper body (arms, back, neck, jaw, stomach).", "Call 911 right away if you, or someone near you, is experiencing symptoms of heart attack."],
 	"readyToDeploy": true
   },
 {
@@ -353,7 +353,7 @@
   },
 {
     "id": "R-33",
-    "title": "Kidney Failure Causes",
+    "title": "Causes of Kidney Failure",
     "mediaLink": "Resources/images/kidney_failure_causes_infographic.png",
     "thumbLink": "Resources/images/thumbnails/kidney_failure_causes_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
@@ -364,7 +364,7 @@
   },
 {
     "id": "R-34",
-    "title": "Kidney Failure Symptoms",
+    "title": "Symptoms of Kidney Failure",
     "mediaLink": "Resources/images/kidney_failure_symptoms_infographic.png",
     "thumbLink": "Resources/images/thumbnails/kidney_failure_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
@@ -738,7 +738,7 @@
 },
 {
 	"id": "R-68",
-    "title": "Foods with a Surprising Sugar Levels",
+    "title": "Foods with Surprising Sugar Levels",
     "mediaLink": "Resources/videos/sugar_foods_animation.mp4",
     "thumbLink": "Resources/images/thumbnails/sugar_foods_thumbnail.png",
     "Category": ["Healthy Living"],
