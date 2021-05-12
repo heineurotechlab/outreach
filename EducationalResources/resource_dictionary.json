@@ -7,7 +7,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["When selecting a mask, make sure to choose one that has two or more washable, breathable layers.", "It is also important to make sure that the mask covers you nose and mouth.", "Additionally, it is important that the mask fits snugly to your face. A nose wire can help with a snug fit at the nose."],
 	"readyToDeploy": true
   },
   {
@@ -18,7 +18,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Asthma symptoms include: shortness of breath, chest tightness/pain, wheezing when exhaling, coughing, and troubles sleeping due to shortness of breath, coughing or wheezing.", "Once you receive an asthma diagnosis, it is important to identify what triggers your asthma."],
 	"readyToDeploy": true
   },
   {
@@ -29,7 +29,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": ["Lifestyle changes can help you keep your blood pressure under control.", " It can be helpful to lose extra weight, stop smoking, and reduce excess stress.", "Another helpful tip is to increase your physical activity levels."],
+	"tipsToRemember": ["Lifestyle changes can help you keep your blood pressure under control.", "It can be helpful to lose extra weight, stop smoking, and reduce excess stress.", "Another helpful tip is to increase your physical activity levels."],
 	"readyToDeploy": true
   },
 {
@@ -40,7 +40,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Colds and flus are both respiratory illnesses that are caused by viruses.", "Typically a flu is worse than a cold, but they do have many of the same symptoms.", "To tell them apart remember that a cold typically comes on gradually, and a flu is abrupt and likely causes you to have a fever."],
 	"readyToDeploy": true
   },
 {
@@ -62,7 +62,71 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": [[
+  {
+    "id": "R-1",
+    "title": "Acceptable Face Coverings",
+    "mediaLink": "Resources/images/acceptable_face_coverings_infographic.png",
+    "thumbLink": "Resources/images/thumbnails/acceptable_face_coverings_infographic_thumbnail.png",
+    "Category": ["Diseases & Conditions"],
+	"description": "",
+    "mediaType": "image",
+	"tipsToRemember": ["When selecting a mask, make sure to choose one that has two or more washable, breathable layers.", "It is also important to make sure that the mask covers you nose and mouth.", "Additionally, it is important that the mask fits snugly to your face. A nose wire can help with a snug fit at the nose."],
+	"readyToDeploy": true
+  },
+  {
+    "id": "R-2",
+    "title": "Asthma Symptoms",
+    "mediaLink": "Resources/images/asthma_symptoms_infographic.png",
+    "thumbLink": "Resources/images/thumbnails/asthma_symptoms_infographic_thumbnail.png",
+    "Category": ["Diseases & Conditions"],
+	"description": "",
+    "mediaType": "image",
+	"tipsToRemember": ["Asthma symptoms include: shortness of breath, chest tightness/pain, wheezing when exhaling, coughing, and troubles sleeping due to shortness of breath, coughing or wheezing.", "Once you receive an asthma diagnosis, it is important to identify what triggers your asthma."],
+	"readyToDeploy": true
+  },
+  {
+    "id": "R-3",
+    "title": "Control Your Blood Pressure",
+    "mediaLink": "Resources/images/control_your_blood_pressure_animation.png",
+    "thumbLink": "Resources/images/thumbnails/blood_pressure_infographic_thumbnail.png",
+    "Category": ["Diseases & Conditions"],
+	"description": "",
+    "mediaType": "video",
+	"tipsToRemember": ["Lifestyle changes can help you keep your blood pressure under control.", "It can be helpful to lose extra weight, stop smoking, and reduce excess stress.", "Another helpful tip is to increase your physical activity levels."],
+	"readyToDeploy": true
+  },
+{
+    "id": "R-4",
+    "title": "Cold vs Flu",
+    "mediaLink": "Resources/images/cold_vs_flu_infographic.png",
+    "thumbLink": "Resources/images/thumbnails/cold_vs_flu_infographic_thumbnail.png",
+    "Category": ["Diseases & Conditions"],
+	"description": "",
+    "mediaType": "image",
+	"tipsToRemember": ["Colds and flus are both respiratory illnesses that are caused by viruses.", "Typically a flu is worse than a cold, but they do have many of the same symptoms.", "To tell them apart remember that a cold typically comes on gradually, and a flu is abrupt and likely causes you to have a fever."],
+	"readyToDeploy": true
+  },
+{
+    "id": "R-5",
+    "title": "COVID and Age",
+    "mediaLink": "Resources/videos/covid_and_age_animation.mp4",
+    "thumbLink": "Resources/images/thumbnails/covid_and_age_infographic_thumbnail.png",
+    "Category": ["Diseases & Conditions"],
+	"description": "",
+    "mediaType": "video",
+	"tipsToRemember": ["The older an individual is, the higher risk they are at for serve illness due to COVID.", "Severe illness refers to hospitalization, intensive care, the required use of a ventilator, and even death."],
+	"readyToDeploy": true
+  },
+{
+    "id": "R-6",
+    "title": "COVID and Alcohol",
+    "mediaLink": "Resources/images/covid_and_alcohol_infographic.png",
+    "thumbLink": "Resources/images/thumbnails/covid_and_alcohol_infographic_thumbnail.png",
+    "Category": ["Diseases & Conditions"],
+	"description": "",
+    "mediaType": "image",
+	"tipsToRemember": ["Though it is often believed that consuming alcohol will kill a virus, this is not the case, and will not stop you from contracting COVID-19.", "Alcohol consumption, especially heavy consumption, weakens your immune system. This means your body’s ability to fight of infection is lowered."],
 	"readyToDeploy": true
   },
 {
@@ -73,7 +137,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["You many have heard that hot peppers can protect you from or cure you of COVID-19. This is a myth.", "The best way to avoid contracting COVID-19 are to wear a face covering when you are out of your home, practice social distancing with people who you do not live with, and wash your hands."],
 	"readyToDeploy": true
   },
 {
@@ -117,7 +181,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["When selecting a face covering, make sure to choose one that has two or more washable, breathable layers.", "It is also important to make sure that the it covers you nose and mouth.", "Additionally, it is important that the covering fits snugly to your face. A nose wire can help with a snug fit at the nose."],
 	"readyToDeploy": true
   },
 {
@@ -161,7 +225,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Crohns disease is an autoimmune disorder.", "Common symptoms include: diarrhea, fever, fatigue, abdominal pain/cramping, blood in your stool, mouth sores, reduced appetite, weight loss, pain near/around the anus."],
 	"readyToDeploy": true
   },
 {
@@ -216,7 +280,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Factors that put you at risk for developing type 2 diabetes include: diagnosis of prediabetes, being overweight, older than 45 years, having biological family members with type 2 diabetes, low weekly physical activity levels (less than three times/week).", "Lifestyle changes can prevent or delay type 2 diabetes."],
 	"readyToDeploy": true
   },
 {
@@ -227,7 +291,7 @@
     "Category": ["Diseases & Conditions"],
     "description": "",
 	"mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Symptoms associated with diabetes include: the need to urinate often, excessive thirst and hunger, unintended weight loss, blurred vision, numbness in your hands or feet, fatigue, and dry skin.", "Lifestyle changes to help with diabetes include: healthy diet, exercise, regular doctor visits, quit smoking and drinking."],
 	"readyToDeploy": true
   },
 {
@@ -260,7 +324,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Smoking has a number of side effects.", "Long term side effects can include: increased risk of stroke, and cancer.", "Short term side effects can include: coughing, shortness of breath, bad breath, fatigue, reduced sense of taste, and reduced sense of smell."],
 	"readyToDeploy": true
   },
 {
@@ -271,7 +335,7 @@
     "Category": ["Healthy Living","Injury Prevention"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Hand washing is a five step process: wet hands, lather hands with soap, scrub hands for 20 seconds, rinse hands, dry hands.", "There are many times when you should was your hands including before, during and after food preparation, before and after eating, and after using the toilet."],
 	"readyToDeploy": true
   },
 {
@@ -282,7 +346,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["A common symptom of heart attack for anyone is chest pain or angina.", "Women are more likely to experience some of the other symptoms such as shortness of breath, nausea/vomiting, and back or jaw pain."],
 	"readyToDeploy": true
   },
 {
@@ -315,7 +379,7 @@
     "Category": ["Diseases & Conditions","Healthy Living"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Proper mask wearing is important to limit the spread and help prevent getting COVID-19.", "You should was or sanitize your hands before putting your mask on.", "When you put your mask on, make sure it covers your nose, and goes under your chin."],
 	"readyToDeploy": true
   },
 {
@@ -337,7 +401,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Some symptoms of hypothyroidism include: tiredness, cold sensitivity, weight gain, constipation, depression, body aches and weakness, and muscle cramps.", "Some tips to help manage hypothyroidism include: taking medication as prescribed, exercise, and communication with your doctor."],
 	"readyToDeploy": true
   },
 {
@@ -392,7 +456,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Malaria is a disease caused by a parasite that humans can get through bites from infected mosquitoes.", "Malaria symptoms may include: fever, chills, physical discomfort/muscle and joint pain, headache, nausea/vomiting, diarrhea, abdominal pain, fatigue, rapid breathing, rapid heart rate, and cough."],
 	"readyToDeploy": true
   },
 {
@@ -414,7 +478,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Tricks to prevent kidney damage include: blood sugar management, blood pressure management, healthy diet, weight management, salt intake reduction, drinking enough water, limiting alcohol, and not smoking.", "Another good tip is to make physical activity a part of your routine."],
 	"readyToDeploy": true
   },
 {
@@ -425,7 +489,7 @@
     "Category": ["Injury Prevention"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["One of the leading causes of workplace injury is lifting heavy items.", "To help decrease the risk of injury due to heavy lifting keep in mind that pushing is safer than pulling, keeping the load closer to your body is safer, and use your knees, and not just your hips when you are lifting or setting down an item."],
 	"readyToDeploy": true
   },
 {
@@ -436,7 +500,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Sinusitis is an infection in the nasal cavities.", "Symptoms include: runny and stuffy nose, facial pain or pressure, headache, postnasal drip, sore throat, cough, and bad breath.", "Sinusitis can have different causes. To determine how to treat it, you first need to figure out the cause (e.g., cold, allergies)."],
 	"readyToDeploy": true
   },
 {
@@ -612,7 +676,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["We often live very busy lives that lead to high levels of stress. Even so, it is important to take time to de-stress and relax.", "There are different ways to do this, and you will need to find out what works for you.", "Some good tips include: taking slow, deep breaths, soaking in a warm bath, and listening to music."],
 	"readyToDeploy": true
 },
 {
@@ -623,7 +687,7 @@
     "Category": ["Healthy Living","Diseases and Illnesses"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Many factors influence our heart health, but most of them come down to lifestyle choices.", "Lifestyle changes that you can make to help include: stop smoking, eat healthy, reduce high blood cholesterol levels, lower high blood pressure, and be physically active daily."],
 	"readyToDeploy": true
 },
 {
@@ -634,7 +698,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Here are eight healthy relationship signs: mutual respect, safety, open and honest communication, compromise, equality, independence, support, and privacy.", "Some warning signs of a toxic relationship include: intensity, isolation, extreme jealousy, belittling, and volatility."],
 	"readyToDeploy": true
 },
 {
@@ -645,7 +709,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Many factors influence your weight including: genetics, age, sex, lifestyle, family and cultural habits, sleep, and even where you work and live.", "Regardless of who you are, living an active lifestyle and consuming healthy foods will have health benefits for you."],
 	"readyToDeploy": true
 },
 {
@@ -656,7 +720,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["With our very busy lives, sometimes it can be a challenge to stay positive.", "Here are six tips that may help you to lift your mood and stay positive: start each day with a positive affirmation, learn from setbacks, break negative thought loops, try a new routine, listen to music, and smile."],
 	"readyToDeploy": true
 },
 {
@@ -667,7 +731,7 @@
     "Category": ["Healthy Living","Diseases and Illnesses","Rehabilitation"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Injury and deaths due to falls have been increasing in older populations.", "Some tips to decrease and prevent fall-related injuries include: strengthen your muscles and bones, learn about possible side effects of your medications, take your time, get enough rest, and keep your home safe by decreasing clutter."],
 	"readyToDeploy": true
 },
 {
@@ -678,7 +742,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Quitting caffeine can be very tough and often leads to headaches, nausea, muscle aches, and feelings such as anger, and sadness.", "You many find it easier to but back slowly by cutting back on how many cups your drink a day, or mixing decaffeinated coffee with regular coffee."],
 	"readyToDeploy": true
 },
 {
@@ -689,7 +753,7 @@
     "Category": ["Healthy Living","Diseases and Illnesses"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Unfortunately more and more people are developing diabetes, fortunately it can be managed with healthy lifestyle choices.", "A great lifestyle choice is to build activity into your day.", "Another lifestyle choice is to adjust your diet to focus on healthy options instead of processed foods."],
 	"readyToDeploy": true
 },
 {
@@ -700,7 +764,7 @@
     "Category": ["Healthy Living","Diseases and Illnesses"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Many factors influence our heart health, but most of them come down to lifestyle choices.", "Lifestyle changes that you can make to help include: stop smoking, eat healthy, reduce high blood cholesterol levels, lower high blood pressure, and be physically active daily."],
 	"readyToDeploy": true
 },
 {
@@ -711,7 +775,7 @@
     "Category": ["Healthy Living","Diseases and Illnesses"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Seasonal depression, also known as seasonal affective disorder (SAD), typically occurs during winter when the days or shorter, the air colder, and there are more bad weather days.", "Some people who experience SAD benefit from light therapy."],
 	"readyToDeploy": true
 },
 {
@@ -722,7 +786,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Dietary fiber is a plant-based nutrient that helps with regulating digestions, weight management, blood sugar regulation, and cholesterol maintenance.", "Another benefit to fiber is that is promotes heart health and reduces the risk of developing hearth disease."],
 	"readyToDeploy": true
 },
 {
@@ -733,7 +797,7 @@
     "Category": ["Healthy Living","Diseases and Illnesses"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Did you know that other than adding flavor to your food, spices also have health benefits? For example, turmeric has a compound that acts as an antioxidant, is also an anti-inflammatory.", "Omega-3 fatty acids are also great for you because they can help with depression and anxiety."],
 	"readyToDeploy": true
 },
 {
@@ -744,7 +808,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Consuming to much added sugar can have negative health consequences.", "Condiments (such as salad dressing and ketchup), snacks (such as granola bars and flavored yogurt), and drinks (such as soda, juice and sports drinks) often have added sugar, so it is important to be mindful when consuming these products."],
 	"readyToDeploy": true
 },
 {
@@ -755,7 +819,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Sugar cravings are everywhere, but indulging in too much sugar can lead to weight gain, type 2 diabetes, and cardiovascular disease.", "Three options to help manage your sugar cravings are prevention, substitution (eating healthy sweet foods), and moderation (some indulging but in smaller amounts)."],
 	"readyToDeploy": true
 },
 {
@@ -766,7 +830,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Eating fruits and vegetables should be a part of your daily routine as it is recommended that adults 1.5 - 2 cups of fruit and 2 - 3 cups of vegetables every day.", "A helpful way to sneak more fruits and vegetables into your day is by keeping them on hand so they can easily be eaten as a snack or added to a dish/meal."],
 	"readyToDeploy": true
 },
 {
@@ -777,7 +841,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Superfoods are nutritional powerhouses that are full of healthy vitamins, minerals, and more.", "Here is a list of 10 superfoods: Avocados, blueberries, broccoli, kale, lentils, oatmeal, quinoa, nuts, salmon, and sweet potatoes."],
 	"readyToDeploy": true
 },
 {
@@ -788,7 +852,7 @@
     "Category": ["Healthy Living","Diseases and Illnesses"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["If you have diabetes and follow a meal plan, eating away from home can feel challenging.", "Some tips that may help include: plan ahead (check the restaurant menu ahead), think about your portion size (split your meal with someone), and add fruits, vegetables, and whole grains."],
 	"readyToDeploy": true
 },
 {
@@ -799,7 +863,7 @@
     "Category": ["Healthy Living","Diseases and Illnesses"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Calcium is a mineral that plays an important role in nerve function, muscle contraction, and blood clotting.", "The amount of calcium differs depending on age.", "Good ways to get calcium is through foods such as dairy products, vegetables, and fortified cereals, but vitamin D is also needed to absorb calcium."],
 	"readyToDeploy": true
 },
 {
@@ -810,7 +874,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Most people can consume up to 2,300 mg of sodium a day, but some groups should limit their intake to 1,500 mg each day.", "These groups include: African Americans, people with high blood pressure, diabetes, chronic kidney disease, and those over age 50."],
 	"readyToDeploy": true
 },
 {
@@ -821,7 +885,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Food is what provides our body with energy, the better the food we put in our bodies, the better our bodies function.", "Some daily healthy eating tips include: eating fruits and vegetables with every meal, drinking more water, and avoiding foods with high amounts of fat, sugar, and salt."],
 	"readyToDeploy": true
 },
 {
@@ -843,7 +907,7 @@
     "Category": ["Healthy Living"],
 	"description": "",
     "mediaType": "video",
-	"tipsToRemember": [""],
+	"tipsToRemember": ["Consuming fish twice a week is a way you can help prevent heart disease.", "There are also concerns to eating too much fish, so it is recommend that you eat no more than 12 ounces each week, the fish you consume is low in mercury, and wild caught whenever possible."],
 	"readyToDeploy": true
-}
+	}
 ]
