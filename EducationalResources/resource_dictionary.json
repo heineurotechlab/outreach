@@ -203,7 +203,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["The potential symptoms a person with COVID-19 may have vary greatly and can range from mild to severe.", "Possible COVID-19 symptoms include (but are not limited to): fever and chills, sore throat or cough, shortness of breath, difficulty breathing, fatigue, headaches, trouble thinking clearly, and muscle or body aches."],
 	"readyToDeploy": true
   },
 {
