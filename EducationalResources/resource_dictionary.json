@@ -126,7 +126,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": ["Though it is often believed that consuming alcohol will kill a virus, this is not the case, and will not stop you from contracting COVID-19.", "Alcohol consumption, especially heavy consumption, weakens your immune system. This means your body’s ability to fight of infection is lowered."],
+	"tipsToRemember": ["Though it is often believed that consuming alcohol will kill a virus, this is not the case, and will not stop you from contracting COVID-19.", "Alcohol consumption, especially heavy consumption, weakens your immune system. This means your bodyâ€™s ability to fight of infection is lowered."],
 	"readyToDeploy": true
   },
 {
@@ -214,7 +214,7 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [],
+	"tipsToRemember": ["Two key ways to reduce the risk of COVID-19 tranmission are to wear a mask and to wash your hands frequently.", "COVID-19 can be transmitted through respiratory fluids that carrry the infectious virus. These can be transmittted through the inhilation of respiratory droplets, and the contact of mucous membranes with surfaces infected with COVID-19."],
 	"readyToDeploy": true
   },
 {
