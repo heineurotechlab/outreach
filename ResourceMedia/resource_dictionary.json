@@ -2,29 +2,29 @@
   {
     "id": "R-1",
     "title": "Acceptable Face Coverings",
-    "mediaLink": "Resources/images/acceptable_face_coverings_infographic.png",
+    "mediaLink": "Resources/images/acceptable_face_coverings.png",
     "thumbLink": "Resources/images/thumbnails/acceptable_face_coverings_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
 	"tipsToRemember": ["When selecting a mask, make sure to choose one that has two or more washable, breathable layers.", "It is also important to make sure that the mask covers you nose and mouth.", "Additionally, it is important that the mask fits snugly to your face. A nose wire can help with a snug fit at the nose."],
-	"readyToDeploy": true
+	"readyToDeploy": false
   },
   {
     "id": "R-2",
     "title": "Asthma Symptoms",
-    "mediaLink": "Resources/images/asthma_symptoms_infographic.png",
+    "mediaLink": "Resources/images/asthma_symptoms_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/asthma_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Asthma symptoms include: shortness of breath, chest tightness/pain, wheezing when exhaling, coughing, and troubles sleeping due to shortness of breath, coughing or wheezing.", "Once you receive an asthma diagnosis, it is important to identify what triggers your asthma."],
 	"readyToDeploy": true
   },
   {
     "id": "R-3",
     "title": "Control Your Blood Pressure",
-    "mediaLink": "Resources/images/control_your_blood_pressure_animation.png",
+    "mediaLink": "Resources/images/control_your_blood_pressure_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/blood_pressure_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
@@ -35,24 +35,24 @@
 {
     "id": "R-4",
     "title": "Cold vs Flu",
-    "mediaLink": "Resources/images/cold_vs_flu_infographic.png",
+    "mediaLink": "Resources/images/cold_vs_flu_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/cold_vs_flu_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Colds and flus are both respiratory illnesses that are caused by viruses.", "Typically a flu is worse than a cold, but they do have many of the same symptoms.", "To tell them apart remember that a cold typically comes on gradually, and a flu is abrupt and likely causes you to have a fever."],
 	"readyToDeploy": true
   },
 {
     "id": "R-5",
     "title": "COVID and Age",
-    "mediaLink": "Resources/videos/covid_and_age_animation.mp4",
+    "mediaLink": "Resources/videos/covid_and_age_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/covid_and_age_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "video",
 	"tipsToRemember": ["The older an individual is, the higher risk they are at for serve illness due to COVID.", "Severe illness refers to hospitalization, intensive care, the required use of a ventilator, and even death."],
-	"readyToDeploy": true
+	"readyToDeploy": false
   },
 {
     "id": "R-6",
@@ -62,72 +62,8 @@
     "Category": ["Diseases & Conditions"],
 	"description": "",
     "mediaType": "image",
-	"tipsToRemember": [[
-  {
-    "id": "R-1",
-    "title": "Acceptable Face Coverings",
-    "mediaLink": "Resources/images/acceptable_face_coverings_infographic.png",
-    "thumbLink": "Resources/images/thumbnails/acceptable_face_coverings_infographic_thumbnail.png",
-    "Category": ["Diseases & Conditions"],
-	"description": "",
-    "mediaType": "image",
-	"tipsToRemember": ["When selecting a mask, make sure to choose one that has two or more washable, breathable layers.", "It is also important to make sure that the mask covers you nose and mouth.", "Additionally, it is important that the mask fits snugly to your face. A nose wire can help with a snug fit at the nose."],
-	"readyToDeploy": true
-  },
-  {
-    "id": "R-2",
-    "title": "Asthma Symptoms",
-    "mediaLink": "Resources/images/asthma_symptoms_infographic.png",
-    "thumbLink": "Resources/images/thumbnails/asthma_symptoms_infographic_thumbnail.png",
-    "Category": ["Diseases & Conditions"],
-	"description": "",
-    "mediaType": "image",
-	"tipsToRemember": ["Asthma symptoms include: shortness of breath, chest tightness/pain, wheezing when exhaling, coughing, and troubles sleeping due to shortness of breath, coughing or wheezing.", "Once you receive an asthma diagnosis, it is important to identify what triggers your asthma."],
-	"readyToDeploy": true
-  },
-  {
-    "id": "R-3",
-    "title": "Control Your Blood Pressure",
-    "mediaLink": "Resources/images/control_your_blood_pressure_animation.png",
-    "thumbLink": "Resources/images/thumbnails/blood_pressure_infographic_thumbnail.png",
-    "Category": ["Diseases & Conditions"],
-	"description": "",
-    "mediaType": "video",
-	"tipsToRemember": ["Lifestyle changes can help you keep your blood pressure under control.", "It can be helpful to lose extra weight, stop smoking, and reduce excess stress.", "Another helpful tip is to increase your physical activity levels."],
-	"readyToDeploy": true
-  },
-{
-    "id": "R-4",
-    "title": "Cold vs Flu",
-    "mediaLink": "Resources/images/cold_vs_flu_infographic.png",
-    "thumbLink": "Resources/images/thumbnails/cold_vs_flu_infographic_thumbnail.png",
-    "Category": ["Diseases & Conditions"],
-	"description": "",
-    "mediaType": "image",
-	"tipsToRemember": ["Colds and flus are both respiratory illnesses that are caused by viruses.", "Typically a flu is worse than a cold, but they do have many of the same symptoms.", "To tell them apart remember that a cold typically comes on gradually, and a flu is abrupt and likely causes you to have a fever."],
-	"readyToDeploy": true
-  },
-{
-    "id": "R-5",
-    "title": "COVID and Age",
-    "mediaLink": "Resources/videos/covid_and_age_animation.mp4",
-    "thumbLink": "Resources/images/thumbnails/covid_and_age_infographic_thumbnail.png",
-    "Category": ["Diseases & Conditions"],
-	"description": "",
-    "mediaType": "video",
-	"tipsToRemember": ["The older an individual is, the higher risk they are at for serve illness due to COVID.", "Severe illness refers to hospitalization, intensive care, the required use of a ventilator, and even death."],
-	"readyToDeploy": true
-  },
-{
-    "id": "R-6",
-    "title": "COVID and Alcohol",
-    "mediaLink": "Resources/images/covid_and_alcohol_infographic.png",
-    "thumbLink": "Resources/images/thumbnails/covid_and_alcohol_infographic_thumbnail.png",
-    "Category": ["Diseases & Conditions"],
-	"description": "",
-    "mediaType": "image",
-	"tipsToRemember": ["Though it is often believed that consuming alcohol will kill a virus, this is not the case, and will not stop you from contracting COVID-19.", "Alcohol consumption, especially heavy consumption, weakens your immune system. This means your body’s ability to fight of infection is lowered."],
-	"readyToDeploy": true
+	"tipsToRemember": [],
+	"readyToDeploy": false
   },
 {
     "id": "R-7",
@@ -138,7 +74,7 @@
 	"description": "",
     "mediaType": "image",
 	"tipsToRemember": ["You many have heard that hot peppers can protect you from or cure you of COVID-19. This is a myth.", "The best way to avoid contracting COVID-19 are to wear a face covering when you are out of your home, practice social distancing with people who you do not live with, and wash your hands."],
-	"readyToDeploy": true
+	"readyToDeploy": false
   },
 {
     "id": "R-8",
@@ -149,7 +85,7 @@
 	"description": "",
     "mediaType": "image",
 	"tipsToRemember": [],
-	"readyToDeploy": true
+	"readyToDeploy": false
   },
 {
     "id": "R-9",
@@ -160,7 +96,7 @@
 	"description": "",
     "mediaType": "image",
 	"tipsToRemember": [],
-	"readyToDeploy": true
+	"readyToDeploy": false
   },
 {
     "id": "R-10",
@@ -171,7 +107,7 @@
 	"description": "",
     "mediaType": "image",
 	"tipsToRemember": [],
-	"readyToDeploy": true
+	"readyToDeploy": false
   },
 {
     "id": "R-11",
@@ -182,12 +118,12 @@
 	"description": "",
     "mediaType": "image",
 	"tipsToRemember": ["When selecting a face covering, make sure to choose one that has two or more washable, breathable layers.", "It is also important to make sure that the it covers you nose and mouth.", "Additionally, it is important that the covering fits snugly to your face. A nose wire can help with a snug fit at the nose."],
-	"readyToDeploy": true
+	"readyToDeploy": false
   },
 {
     "id": "R-12",
     "title": "COVID Prevention",
-    "mediaLink": "Resources/videos/covid_prevention_animation.mp4",
+    "mediaLink": "Resources/videos/covid_prevention_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/covid_prevention_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
@@ -198,40 +134,40 @@
 {
     "id": "R-13",
     "title": "COVID Symptoms",
-    "mediaLink": "Resources/images/covid_symptoms_infographic.png",
+    "mediaLink": "Resources/images/covid_symptoms_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/covid_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["The potential symptoms a person with COVID-19 may have vary greatly and can range from mild to severe.", "Possible COVID-19 symptoms include (but are not limited to): fever and chills, sore throat or cough, shortness of breath, difficulty breathing, fatigue, headaches, trouble thinking clearly, and muscle or body aches."],
 	"readyToDeploy": true
   },
 {
     "id": "R-14",
     "title": "COVID Transmission",
-    "mediaLink": "Resources/images/covid_transmission_infographic.png",
+    "mediaLink": "Resources/images/covid_transmission_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/covid_transmission_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Two key ways to reduce the risk of COVID-19 tranmission are to wear a mask and to wash your hands frequently.", "COVID-19 can be transmitted through respiratory fluids that carrry the infectious virus. These can be transmittted through the inhilation of respiratory droplets, and the contact of mucous membranes with surfaces infected with COVID-19."],
 	"readyToDeploy": true
   },
 {
     "id": "R-15",
     "title": "Crohns Disease Symptoms",
-    "mediaLink": "Resources/images/crohns_disease_symptoms_infographic.png",
+    "mediaLink": "Resources/images/crohns_disease_symptoms_EN.png",
     "thumbLink": "Resources/images/thumbnails/crohns_disease_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Crohns disease is an autoimmune disorder.", "Common symptoms include: diarrhea, fever, fatigue, abdominal pain/cramping, blood in your stool, mouth sores, reduced appetite, weight loss, pain near/around the anus."],
 	"readyToDeploy": true
   },
 {
     "id": "R-16",
     "title": "Symptoms of Depression",
-    "mediaLink": "Resources/videos/depression_symptoms_animation.mp4",
+    "mediaLink": "Resources/videos/depression_symptoms_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/depression_symptoms_thumbnail.png",
     "Category": ["Diseases & Conditions","Healthy Living"],
 	"description": "",
@@ -242,29 +178,29 @@
 {
     "id": "R-17",
     "title": "Diabetic Complications",
-    "mediaLink": "Resources/images/diabetic_complications_infographic.png",
+    "mediaLink": "Resources/images/diabetic_complications_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/diabetic_complications_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Monitor your health through regular blood sugar checks and visits to your doctor.", "Follow a sensible diet and exercise routine.", "If prescribed, take your medications (pills and/or insulin) as recommended by your doctor."],
 	"readyToDeploy": true
   },
 {
     "id": "R-18",
     "title": "Diabetic Foot Problems",
-    "mediaLink": "Resources/images/diabetic_foot_problems_infographic.png",
+    "mediaLink": "Resources/images/diabetic_foot_problems_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/diabetic_foot_problems_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["If you have diabetes, check your feet every day for injury or changes in your skin or nails.", "Take care of your feet by avoiding potentially harmful activities, checking your shoes for any objects prior to use, washing feet in warm water daily, and keeping toenails trimmed.", "Keep the blood flowing by putting your feet up when sitting and wiggling your toes several times throughout the day."],
 	"readyToDeploy": true
   },
 {
     "id": "R-19",
     "title": "Diabetic Foot Care",
-    "mediaLink": "Resources/videos/diabetic_footcare_animation.mp4",
+    "mediaLink": "Resources/videos/diabetic_footcare_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/diabetic_footcare_thumbnail.png",
     "Category": ["Diseases & Conditions","Injury Prevention"],
 	"description": "",
@@ -275,29 +211,29 @@
 {
     "id": "R-20",
     "title": "Diabetic Risk Factors",
-    "mediaLink": "Resources/images/diabetes_risk_factors_infographic.png",
+    "mediaLink": "Resources/images/diabetes_risk_factors_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/diabetes_risk_factors_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Factors that put you at risk for developing type 2 diabetes include: diagnosis of prediabetes, being overweight, older than 45 years, having biological family members with type 2 diabetes, low weekly physical activity levels (less than three times/week).", "Lifestyle changes can prevent or delay type 2 diabetes."],
 	"readyToDeploy": true
   },
 {
     "id": "R-21",
     "title": "Symptoms of Diabetes",
-    "mediaLink": "Resources/images/diabetic_symptoms_infographic.png",
+    "mediaLink": "Resources/images/diabetic_symptoms_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/diabetes_symptoms_thumbnail.png",
     "Category": ["Diseases & Conditions"],
     "description": "",
-	"mediaType": "image",
+	"mediaType": "video",
 	"tipsToRemember": ["Symptoms associated with diabetes include: the need to urinate often, excessive thirst and hunger, unintended weight loss, blurred vision, numbness in your hands or feet, fatigue, and dry skin.", "Lifestyle changes to help with diabetes include: healthy diet, exercise, regular doctor visits, quit smoking and drinking."],
 	"readyToDeploy": true
   },
 {
     "id": "R-22",
     "title": "Discomfort vs Pain",
-    "mediaLink": "Resources/videos/discomfort_vs_pain_animation.mp4",
+    "mediaLink": "Resources/videos/discomfort_vs_pain_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/discomfort_vs_pain_thumbnail.png",
     "Category": ["Rehabilitation","Injury Prevention"],
 	"description": "",
@@ -308,84 +244,84 @@
 {
     "id": "R-23",
     "title": "Effects of Alcohol",
-    "mediaLink": "Resources/images/effects_of_alcohol_infographic.png",
+    "mediaLink": "Resources/images/effects_of_alcohol_EN.png",
     "thumbLink": "Resources/images/thumbnails/effects_of_alcohol_infographic_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Long term effects of excessive alcohol consumption include the development of chronic diseases and other health problems including: high blood pressure, heart disease, stroke, liver disease, and cancer.", "Long terms effects can also lead to detrimental impacts on your brain including: learning challenges, memory issues, and the exacerbation of mental health conditions."],
 	"readyToDeploy": true
   },
 {
     "id": "R-24",
     "title": "Effects of Smoking",
-    "mediaLink": "Resources/images/effects_of_smoking_infographic.png",
+    "mediaLink": "Resources/images/effects_of_smoking_EN.png",
     "thumbLink": "Resources/images/thumbnails/effects_of_smoking_infographic_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Smoking has a number of side effects.", "Long term side effects can include: increased risk of stroke, and cancer.", "Short term side effects can include: coughing, shortness of breath, bad breath, fatigue, reduced sense of taste, and reduced sense of smell."],
 	"readyToDeploy": true
   },
 {
     "id": "R-25",
     "title": "Handwashing",
-    "mediaLink": "Resources/images/handwashing_infographic.png",
+    "mediaLink": "Resources/images/handwashing_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/handwashing_infographic_thumbnail.png",
     "Category": ["Healthy Living","Injury Prevention"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Hand washing is a five step process: wet hands, lather hands with soap, scrub hands for 20 seconds, rinse hands, dry hands.", "There are many times when you should was your hands including before, during and after food preparation, before and after eating, and after using the toilet."],
 	"readyToDeploy": true
   },
 {
     "id": "R-26",
     "title": "Heart Attack in Women",
-    "mediaLink": "Resources/images/heart_attack_in_women_infographic.png",
+    "mediaLink": "Resources/images/heart_attack_in_women_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/heart_attack_in_women_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["A common symptom of heart attack for anyone is chest pain or angina.", "Women are more likely to experience some of the other symptoms such as shortness of breath, nausea/vomiting, and back or jaw pain."],
 	"readyToDeploy": true
   },
 {
     "id": "R-27",
     "title": "Heart Attack Symptoms",
-    "mediaLink": "Resources/images/heart_attack_symptoms_infographic.png",
+    "mediaLink": "Resources/images/heart_attack_symptoms_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/heart_attack_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Discomfort in the chest that lasts more than a few mintues, or goes away and then returns is a likely sign that an individual is experiencing a heart attack.", "Discomfort may also be experienced in other parts of the upper body (arms, back, neck, jaw, stomach).", "Call 911 right away if you, or someone near you, is experiencing symptoms of heart attack."],
 	"readyToDeploy": true
   },
 {
     "id": "R-28",
     "title": "How to Prevent a Heart Attack",
-    "mediaLink": "Resources/images/how_to_prevent_a_heart_attack_infographic.png",
+    "mediaLink": "Resources/images/heart_attack_prevention_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/how_to_prevent_a_heart_attack_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Making lifestyle changes in best way to reduce your risk of experiencing a heart attack.", "Key lifestyle changes include to quit smoking, eat a healthy diet, be physically active daily, and reduce your stress levels.", "It is also helpful to keep track of your cholesterol, control your blood pressure, manage your diabetes, and work with your health care team."],
 	"readyToDeploy": true
   },
 {
     "id": "R-29",
     "title": "How to Wear a Mask",
-    "mediaLink": "Resources/images/how_to_wear_a_mask_infographic.png",
+    "mediaLink": "Resources/images/how_to_wear_a_mask_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/how_to_wear_a_mask_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions","Healthy Living"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Proper mask wearing is important to limit the spread and help prevent getting COVID-19.", "You should was or sanitize your hands before putting your mask on.", "When you put your mask on, make sure it covers your nose, and goes under your chin."],
 	"readyToDeploy": true
   },
 {
     "id": "R-30",
     "title": "Hypertension Diet",
-    "mediaLink": "Resources/videos/hypertension_diet_animation.mp4",
+    "mediaLink": "Resources/videos/hypertension_diet_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/hypertension_diet_thumbnail.png",
     "Category": ["Diseases & Conditions","Healthy Living"],
 	"description": "",
@@ -396,18 +332,18 @@
 {
     "id": "R-31",
     "title": "Hypothyroidism Symptoms",
-    "mediaLink": "Resources/images/hypothyroidism_symptoms_infographic.png",
+    "mediaLink": "Resources/images/hypothyroidism_symptoms_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/hypothyroidism_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Some symptoms of hypothyroidism include: tiredness, cold sensitivity, weight gain, constipation, depression, body aches and weakness, and muscle cramps.", "Some tips to help manage hypothyroidism include: taking medication as prescribed, exercise, and communication with your doctor."],
 	"readyToDeploy": true
   },
 {
     "id": "R-32",
     "title": "Importance of Rehabilitation",
-    "mediaLink": "Resources/videos/importance_of_rehabilitation_animation.mp4",
+    "mediaLink": "Resources/videos/importance_of_rehabilitation_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/importance_of_rehabilitation_thumbnail.png",
     "Category": ["Injury Prevention","Rehabilitation"],
 	"description": "",
@@ -418,95 +354,95 @@
 {
     "id": "R-33",
     "title": "Causes of Kidney Failure",
-    "mediaLink": "Resources/images/kidney_failure_causes_infographic.png",
+    "mediaLink": "Resources/images/kidney_failure_causes_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/kidney_failure_causes_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": [],
 	"readyToDeploy": true
   },
 {
     "id": "R-34",
     "title": "Symptoms of Kidney Failure",
-    "mediaLink": "Resources/images/kidney_failure_symptoms_infographic.png",
+    "mediaLink": "Resources/images/kidney_failure_symptoms_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/kidney_failure_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Symptoms of kidney failure include (but are not limited to): fatigue, weakness, change in urinations, and sleep challenges.", "Some tips to decrease the risk of kidney failure include: blood sugar management, blood pressure management, maintaining a healthy diet, staying hydrated, regular exercise, and stress reduction."],
 	"readyToDeploy": true
   },
 {
     "id": "R-35",
     "title": "Lifting and Twisting",
-    "mediaLink": "Resources/images/lifting_and_twisting_infographic.png",
+    "mediaLink": "Resources/images/lifting_and_twisting_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/lifting_and_twisting_infographic_thumbnail.png",
     "Category": ["Injury Prevention"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": [],
 	"readyToDeploy": true
   },
 {
     "id": "R-36",
     "title": "Malaria Symptoms",
-    "mediaLink": "Resources/images/malaria_symptoms_infographic.png",
+    "mediaLink": "Resources/images/malaria_symptoms_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/malaria_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Malaria is a disease caused by a parasite that humans can get through bites from infected mosquitoes.", "Malaria symptoms may include: fever, chills, physical discomfort/muscle and joint pain, headache, nausea/vomiting, diarrhea, abdominal pain, fatigue, rapid breathing, rapid heart rate, and cough."],
 	"readyToDeploy": true
   },
 {
     "id": "R-37",
     "title": "Medication Adherence",
-    "mediaLink": "Resources/images/medication_adherence_infographic.png",
+    "mediaLink": "Resources/images/medication_adherence_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/medication_adherence_infographic_thumbnail.png",
     "Category": ["Healthy Living","Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Tie taking your medications into your daily routine.", "Take your medication at the same time daily.", "Keep a 'medicine calendar' with your medications and note each time to take a dose.", "When traveling, make sure you bring enough of your medication, plus a few days extra, in case of delays, and if you are flying, keep your medication in your carry-on baggage."],
 	"readyToDeploy": true
   },
 {
     "id": "R-38",
     "title": "Preventing Kidney Damage",
-    "mediaLink": "Resources/images/preventing_kidney_damage_infographic.png",
+    "mediaLink": "Resources/images/preventing_kidney_damage_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/preventing_kidney_damage_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Tricks to prevent kidney damage include: blood sugar management, blood pressure management, healthy diet, weight management, salt intake reduction, drinking enough water, limiting alcohol, and not smoking.", "Another good tip is to make physical activity a part of your routine."],
 	"readyToDeploy": true
   },
 {
     "id": "R-39",
     "title": "Safe Manual Lifting",
-    "mediaLink": "Resources/images/safe_manual_lifting_infographic.png",
+    "mediaLink": "Resources/images/safe_manual_lifting_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/safe_manual_lifting_infographic_thumbnail.png",
     "Category": ["Injury Prevention"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["One of the leading causes of workplace injury is lifting heavy items.", "To help decrease the risk of injury due to heavy lifting keep in mind that pushing is safer than pulling, keeping the load closer to your body is safer, and use your knees, and not just your hips when you are lifting or setting down an item."],
 	"readyToDeploy": true
   },
 {
     "id": "R-40",
     "title": "Sinusitis Symptoms",
-    "mediaLink": "Resources/images/sinusitis_symptoms_infographic.png",
+    "mediaLink": "Resources/images/sinusitis_symptoms_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/sinusitis_symptoms_infographic_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
-    "mediaType": "image",
+    "mediaType": "video",
 	"tipsToRemember": ["Sinusitis is an infection in the nasal cavities.", "Symptoms include: runny and stuffy nose, facial pain or pressure, headache, postnasal drip, sore throat, cough, and bad breath.", "Sinusitis can have different causes. To determine how to treat it, you first need to figure out the cause (e.g., cold, allergies)."],
 	"readyToDeploy": true
   },
 {
     "id": "R-41",
     "title": "Signs of Stroke",
-    "mediaLink": "Resources/videos/signs_of_stroke_animation.mp4",
+    "mediaLink": "Resources/videos/signs_of_stroke_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/signs_of_stroke_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
@@ -517,7 +453,7 @@
  {
 	"id": "R-42",
     "title": "Sodium Reduction Strategies",
-    "mediaLink": "Resources/videos/sodium_reduction_strategies_animation.mp4",
+    "mediaLink": "Resources/videos/sodium_reduction_strategies_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/sodium_reduction_strategies_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
@@ -528,7 +464,7 @@
  {
 	"id": "R-43",
     "title": "Preventing Another Stroke",
-    "mediaLink": "Resources/videos/preventing_another_stroke_animation.mp4",
+    "mediaLink": "Resources/videos/preventing_another_stroke_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/preventing_another_stroke_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
@@ -539,7 +475,7 @@
  {
 	"id": "R-44",
     "title": "Habits to Improve Mental Health",
-    "mediaLink": "Resources/videos/habits_to_improve_mental_health_animation.mp4",
+    "mediaLink": "Resources/videos/habits_to_improve_mental_health_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/improve_mental_health_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
@@ -550,7 +486,7 @@
  {
 	"id": "R-45",
     "title": "Recovering from Stroke",
-    "mediaLink": "Resources/videos/recovering_from_stroke_animation.mp4",
+    "mediaLink": "Resources/videos/recovering_from_stroke_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/recovering_from_stroke_thumbnail.png",
     "Category": ["Diseases & Conditions","Rehabilitation"],
 	"description": "",
@@ -561,7 +497,7 @@
 {
 	"id": "R-46",
     "title": "Positive Mental Wellbeing",
-    "mediaLink": "Resources/videos/positive_mental_wellbeing_animation.mp4",
+    "mediaLink": "Resources/videos/positive_mental_wellbeing_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/positive_mental_wellbeing_infographic_thumbnail.png",
     "Category": ["Healthy Living","Rehabilitation"],
 	"description": "",
@@ -572,7 +508,7 @@
 {
 	"id": "R-47",
     "title": "Staying Motivated During Rehabilitation",
-    "mediaLink": "Resources/videos/staying_motivated_animation.mp4",
+    "mediaLink": "Resources/videos/staying_motivated_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/staying_motivated_thumbnail.png",
     "Category": ["Healthy Living","Rehabilitation"],
 	"description": "",
@@ -583,7 +519,7 @@
 {
 	"id": "R-48",
     "title": "Tips for Better Sleep",
-    "mediaLink": "Resources/videos/tips_for_better_sleep_animation.mp4",
+    "mediaLink": "Resources/videos/tips_for_better_sleep_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/tips_for_better_sleep_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
@@ -594,7 +530,7 @@
 {
 	"id": "R-49",
     "title": "Work in Your Workout",
-    "mediaLink": "Resources/videos/work_in_your_workout_animation.mp4",
+    "mediaLink": "Resources/videos/work_in_your_workout_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/work_in_your_workout_thumbnail.png",
     "Category": ["Healthy Living","Rehabilitation"],
 	"description": "",
@@ -605,7 +541,7 @@
 {
 	"id": "R-50",
     "title": "Avoid Injury-Causing Mistakes",
-    "mediaLink": "Resources/videos/avoid_injurycausing_mistakes_animation.mp4",
+    "mediaLink": "Resources/videos/avoid_injurycausing_mistakes_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/avoid_injurycausing_mistakes_thumbnail.png",
     "Category": ["Rehabilitation"],
 	"description": "",
@@ -616,7 +552,7 @@
 {
 	"id": "R-51",
     "title": "Meditation Tips",
-    "mediaLink": "Resources/videos/meditation_tips_animation.mp4",
+    "mediaLink": "Resources/videos/meditation_tips_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/meditation_tips_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
@@ -627,7 +563,7 @@
 {
 	"id": "R-52",
     "title": "Heart Attack Prevention",
-    "mediaLink": "Resources/videos/heart_attack_prevention_animation.mp4",
+    "mediaLink": "Resources/videos/heart_attack_prevention_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/heart_attack_prevention_thumbnail.png",
     "Category": ["Diseases & Conditions"],
 	"description": "",
@@ -638,7 +574,7 @@
 {
 	"id": "R-53",
     "title": "Walking Tips",
-    "mediaLink": "Resources/videos/walking_tips_animation.mp4",
+    "mediaLink": "Resources/videos/walking_tips_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/walking_tips_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
@@ -649,7 +585,7 @@
 {
 	"id": "R-54",
     "title": "Ergonomic Computer Use",
-    "mediaLink": "Resources/videos/ergonomic_computer_use_animation.mp4",
+    "mediaLink": "Resources/videos/ergonomic_computer_use_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/ergonomic_computer_use_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
@@ -660,7 +596,7 @@
 {
 	"id": "R-55",
     "title": "Keep Your Immune System Healthy",
-    "mediaLink": "Resources/videos/immune_system_animation.mp4",
+    "mediaLink": "Resources/videos/immune_system_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/immune_system_thumbnail.png",
     "Category": ["Healthy Living","Diseases and Illnesses"],
 	"description": "",
@@ -671,7 +607,7 @@
 {
 	"id": "R-56",
     "title": "Destress and Relax",
-    "mediaLink": "Resources/videos/destress_and_relax_animation.mp4",
+    "mediaLink": "Resources/videos/destress_and_relax_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/destress_and_relax_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
@@ -682,7 +618,7 @@
 {
 	"id": "R-57",
     "title": "Heart Healthy Lifestyle",
-    "mediaLink": "Resources/videos/heart_healthy_lifestyle_animation.mp4",
+    "mediaLink": "Resources/videos/heart_healthy_lifestyle_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/heart_healthy_lifestyle_thumbnail.png",
     "Category": ["Healthy Living","Diseases and Illnesses"],
 	"description": "",
@@ -693,7 +629,7 @@
 {
 	"id": "R-58",
     "title": "Healthy Relationships",
-    "mediaLink": "Resources/videos/healthy_relationships_animation.mp4",
+    "mediaLink": "Resources/videos/healthy_relationships_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/healthy_relationships_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
@@ -704,7 +640,7 @@
 {
 	"id": "R-59",
     "title": "Maintaining a Healthy Weight",
-    "mediaLink": "Resources/videos/maintain_healthy_weight_animation.mp4",
+    "mediaLink": "Resources/videos/maintain_healthy_weight_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/maintain_healthy_weight_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
@@ -715,7 +651,7 @@
 {
 	"id": "R-60",
     "title": "Lift Your Mood and Stay Positive",
-    "mediaLink": "Resources/videos/lift_mood_animation.mp4",
+    "mediaLink": "Resources/videos/lift_mood_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/lift_mood_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
@@ -726,7 +662,7 @@
 {
 	"id": "R-61",
     "title": "Prevent Fall-related Injuries",
-    "mediaLink": "Resources/videos/prevent_fallrelated_injuries_animation.mp4",
+    "mediaLink": "Resources/videos/prevent_fallrelated_injuries_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/prevent_fallrelated_injuries_thumbnail.png",
     "Category": ["Healthy Living","Diseases and Illnesses","Rehabilitation"],
 	"description": "",
@@ -737,7 +673,7 @@
 {
 	"id": "R-62",
     "title": "Cutting Back on Caffeine",
-    "mediaLink": "Resources/videos/cutting_caffeine_animation.mp4",
+    "mediaLink": "Resources/videos/cutting_caffeine_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/cutting_caffeine_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
@@ -748,7 +684,7 @@
 {
 	"id": "R-63",
     "title": "Strategies to Live Well with Diabetes",
-    "mediaLink": "Resources/videos/live_with_diabetes_animation.mp4",
+    "mediaLink": "Resources/videos/live_with_diabetes_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/live_with_diabetes_thumbnail.png",
     "Category": ["Healthy Living","Diseases and Illnesses"],
 	"description": "",
@@ -759,7 +695,7 @@
 {
 	"id": "R-64",
     "title": "Keeping Your Heart Healthy",
-    "mediaLink": "Resources/videos/keep_your_heart_healthy_animation.mp4",
+    "mediaLink": "Resources/videos/keep_your_heart_healthy_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/keep_your_heart_healthy_thumbnail.png",
     "Category": ["Healthy Living","Diseases and Illnesses"],
 	"description": "",
@@ -770,7 +706,7 @@
 {
 	"id": "R-65",
     "title": "Seasonal Depression",
-    "mediaLink": "Resources/videos/seasonal_depression_animation.mp4",
+    "mediaLink": "Resources/videos/seasonal_depression_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/seasonal_depression_thumbnail.png",
     "Category": ["Healthy Living","Diseases and Illnesses"],
 	"description": "",
@@ -781,7 +717,7 @@
 {
 	"id": "R-66",
     "title": "Benefits of Fiber",
-    "mediaLink": "Resources/videos/benefits_of_fiber_animation.mp4",
+    "mediaLink": "Resources/videos/benefits_of_fiber_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/benefits_of_fiber_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
@@ -792,7 +728,7 @@
 {
 	"id": "R-67",
     "title": "Foods to Help Your Mood",
-    "mediaLink": "Resources/videos/foods_mood_animation.mp4",
+    "mediaLink": "Resources/videos/foods_mood_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/foods_mood_thumbnail.png",
     "Category": ["Healthy Living","Diseases and Illnesses"],
 	"description": "",
@@ -803,7 +739,7 @@
 {
 	"id": "R-68",
     "title": "Foods with Surprising Sugar Levels",
-    "mediaLink": "Resources/videos/sugar_foods_animation.mp4",
+    "mediaLink": "Resources/videos/sugar_foods_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/sugar_foods_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
@@ -814,7 +750,7 @@
 {
 	"id": "R-69",
     "title": "Manage Your Sugar Cravings",
-    "mediaLink": "Resources/videos/manage_sugar_cravings_animation.mp4",
+    "mediaLink": "Resources/videos/manage_sugar_cravings_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/manage_sugar_cravings_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
@@ -825,7 +761,7 @@
 {
 	"id": "R-70",
     "title": "Sneak in More Fruits and Vegetables",
-    "mediaLink": "Resources/videos/sneak_fruitsveges_animation.mp4",
+    "mediaLink": "Resources/videos/sneak_fruitsveges_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/sneak_fruitsveges_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
@@ -836,7 +772,7 @@
 {
 	"id": "R-71",
     "title": "Superfoods that Pack a Punch",
-    "mediaLink": "Resources/videos/superfoods_animation.mp4",
+    "mediaLink": "Resources/videos/superfoods_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/superfoods_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
@@ -847,7 +783,7 @@
 {
 	"id": "R-72",
     "title": "Eating out With Diabetes",
-    "mediaLink": "Resources/videos/diabetes_eatingout_animation.mp4",
+    "mediaLink": "Resources/videos/diabetes_eatingout_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/diabetes_eatingout_thumbnail.png",
     "Category": ["Healthy Living","Diseases and Illnesses"],
 	"description": "",
@@ -858,7 +794,7 @@
 {
 	"id": "R-73",
     "title": "Calcium for Strong Bones",
-    "mediaLink": "Resources/videos/calcium_benefits_animation.mp4",
+    "mediaLink": "Resources/videos/calcium_benefits_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/calcium_benefits_thumbnail.png",
     "Category": ["Healthy Living","Diseases and Illnesses"],
 	"description": "",
@@ -869,7 +805,7 @@
 {
 	"id": "R-74",
     "title": "Eat Less Salt",
-    "mediaLink": "Resources/videos/eat_less_salt_animation.mp4",
+    "mediaLink": "Resources/videos/eat_less_salt_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/eat_less_salt_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
@@ -880,7 +816,7 @@
 {
 	"id": "R-75",
     "title": "Everyday Ways to Eat Smart",
-    "mediaLink": "Resources/videos/eating_smart_animation.mp4",
+    "mediaLink": "Resources/videos/eating_smart_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/eating_smart_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
@@ -891,7 +827,7 @@
 {
 	"id": "R-76",
     "title": "Osteoporosis Prevention",
-    "mediaLink": "Resources/videos/osteoporosis_prevention_animation.mp4",
+    "mediaLink": "Resources/videos/osteoporosis_prevention_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/osteoporosis_prevention_thumbnail.png",
     "Category": ["Healthy Living","Diseases and Illnesses"],
 	"description": "",
@@ -902,7 +838,7 @@
 {
 	"id": "R-77",
     "title": "Benefits of Fish",
-    "mediaLink": "Resources/videos/benefits_of_fish_animation.mp4",
+    "mediaLink": "Resources/videos/benefits_of_fish_EN.mp4",
     "thumbLink": "Resources/images/thumbnails/benefits_of_fish_thumbnail.png",
     "Category": ["Healthy Living"],
 	"description": "",
